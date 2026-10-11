@@ -1,0 +1,6 @@
+.venv/
+.slang-venv/
+.cache/
+__pycache__/
+results/
+.env

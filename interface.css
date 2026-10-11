@@ -1,0 +1,114 @@
+/* Bangladesh's green and red, with a quiet woven geometric motif. No remote assets. */
+:root, .dark {
+  color-scheme: light !important;
+  --body-background-fill: #f6f4ee !important;
+  --body-text-color: #173e35 !important;
+  --body-text-color-subdued: #586b63 !important;
+  --block-background-fill: #fff !important;
+  --block-border-color: #dce3dc !important;
+  --block-label-text-color: #35584d !important;
+  --block-label-background-fill: transparent !important;
+  --input-background-fill: #fff !important;
+  --input-border-color: #dce3dc !important;
+  --input-placeholder-color: #78867e !important;
+  --input-text-color: #173e35 !important;
+  --background-fill-primary: #fff !important;
+  --background-fill-secondary: #f0f4ee !important;
+  --border-color-primary: #dce3dc !important;
+  --border-color-accent: #006a50 !important;
+  --color-accent: #006a50 !important;
+  --color-accent-soft: #e7f1e9 !important;
+  --button-secondary-background-fill: #eff4ee !important;
+  --button-secondary-background-fill-hover: #e4eee5 !important;
+  --button-secondary-text-color: #245144 !important;
+  --button-secondary-border-color: #dce3dc !important;
+  --button-primary-background-fill-hover: #00553f !important;
+  --button-primary-border-color: #006a50 !important;
+}
+body { background: #f6f4ee !important; }
+.gradio-container { max-width: 1140px !important; margin: auto !important; padding: 20px 34px 28px !important; }
+.setu-nav { display:flex; align-items:center; justify-content:space-between; padding:9px 0 25px; }
+.setu-brand { display:flex; align-items:center; gap:12px; }
+.brand-mark { display:grid; place-items:center; width:43px; height:43px; border-radius:13px; background:#006a50; color:#fff; font-size:29px; }
+.setu-brand strong { display:block; font-size:25px; line-height:1.1; font-weight:650; }
+.setu-brand strong span { font-size:11px; letter-spacing:3px; margin-left:9px; vertical-align:middle; }
+.setu-brand small { display:block; font-size:11px; color:#657970; margin-top:5px; }
+.local-badge { font-size:12px; padding:8px 13px; border:1px solid #d7e1d5; border-radius:24px; background:#edf2e8; display:flex; gap:8px; align-items:center; }
+.local-badge i { width:6px; height:6px; background:#006a50; border-radius:50%; }
+.setu-hero { display:flex; justify-content:space-between; align-items:center; min-height:262px; padding:20px 0 36px; position:relative; overflow:hidden; }
+.eyebrow { color:#567667; font-size:11px; letter-spacing:2.2px; font-weight:650; margin:0 0 15px; }
+.setu-hero h1 { font-size:48px; line-height:1.15; letter-spacing:-1.8px; margin:0; font-weight:650; color:#123f32; }
+.setu-hero h1 em { font-style:normal; font-weight:450; color:#006a50; font-size:39px; letter-spacing:-1px; }
+.hero-description { color:#62766a; line-height:1.7; font-size:14px; margin:16px 0 0; }
+.hero-art { width:275px; height:210px; position:relative; margin-right:30px; }
+.red-sun { position:absolute; width:137px; height:137px; border-radius:50%; background:#df4d43; top:12px; left:89px; }
+.art-bangla { position:absolute; font-size:66px; color:#07553f; line-height:1.05; transform:rotate(-9deg); top:25px; left:28px; font-weight:600; letter-spacing:13px; }
+.stitch-line { position:absolute; width:260px; height:23px; top:170px; background:repeating-linear-gradient(45deg, transparent 0 8px,#93a890 8px 10px,transparent 10px 17px),repeating-linear-gradient(-45deg,transparent 0 8px,#93a890 8px 10px,transparent 10px 17px); opacity:.4; }
+.art-caption { position:absolute; top:207px; left:51px; font-size:9px; letter-spacing:2px; color:#667d69; }
+#workspace { border:1px solid #dce4da; border-radius:24px; padding:23px; background:#fff; box-shadow:0 12px 45px #173e3508; gap:16px; }
+#language-bar { align-items:center; gap:16px; }
+#direction { background:transparent; border:none; padding:0; }
+#direction label { border-radius:24px !important; padding:9px 17px !important; box-shadow:none !important; font-weight:550; }
+#swap {
+  flex:0 0 164px !important; width:164px !important; min-width:164px !important;
+  display:flex; align-items:center; justify-content:center;
+  border-radius:24px; font-size:12px; line-height:1.4; min-height:42px; height:auto;
+  padding:10px 16px !important; white-space:nowrap; box-sizing:border-box;
+}
+#translation-columns { gap:18px; }
+.translation-card { border:1px solid #e2e8df; border-radius:17px; padding:18px !important; gap:12px; }
+#target-card { background:#f2f6ee; }
+.card-heading { font-size:11px; letter-spacing:1.7px; color:#567064; font-weight:650; margin:0 !important; }
+#source, #translation { border:none !important; background:transparent !important; padding:0 !important; box-shadow:none !important; }
+#source textarea, #translation textarea { background:transparent !important; border:none !important; box-shadow:none !important; padding:3px 0 !important; font-size:21px !important; line-height:1.65 !important; min-height:186px !important; color:#173e35 !important; }
+#translation textarea { color:#005d46 !important; }
+#source textarea:focus { outline: none !important; }
+#source:focus-within { outline:2px solid #399d80 !important; outline-offset:7px; border-radius:5px; }
+#input-actions { align-items:center; gap:12px; }
+#slang-switch { border:none; background:transparent; min-width:190px !important; padding:0; }
+#clear { min-width:65px !important; flex-grow:0; border:none; background:transparent; color:#5e7567; box-shadow:none; font-size:12px; }
+#translate { height:48px; border-radius:13px; font-size:15px; font-weight:600; }
+#listen { border-radius:12px; height:43px; }
+#listen:disabled { opacity:.45; }
+#audio { border-radius:13px; min-height:70px; background:#fff; }
+#try-label { margin-top:4px; padding:0; }
+#try-label p { font-size:11px; color:#6c7b6d; margin:0; line-height:1.5; }
+#example-row {
+  display:grid !important; grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:12px !important; align-items:stretch; width:100%;
+}
+.example-chip {
+  display:flex; align-items:center; justify-content:center; box-sizing:border-box;
+  border:1px solid #dce3dc !important; border-radius:12px !important;
+  width:100% !important; min-width:0 !important; max-width:none !important;
+  font-size:13px !important; line-height:1.5 !important; padding:11px 16px !important;
+  min-height:44px; height:auto; white-space:nowrap; background:#f4f7f1 !important;
+  color:#245144 !important;
+}
+.example-chip:hover { background:#e6eee2 !important; border-color:#a8c4b5 !important; }
+.disclosure { border-radius:14px !important; background:#fff; border-color:#e0e6dc !important; }
+.disclosure > button { font-size:13px !important; }
+#details { margin-top:5px; }
+#details .tab-nav { border-bottom:1px solid #d8e2d6; margin-bottom:17px; }
+#details .tab-nav button { padding:13px 16px; color:#637669; border:none; font-size:13px; }
+#details .tab-nav button.selected { color:#006a50; font-weight:650; border-bottom:2px solid #006a50; background:transparent; }
+.helper-copy p { color:#657668; font-size:13px; line-height:1.7; }
+#stats textarea { font-family:ui-monospace,monospace; font-size:12px; }
+.setu-footer { display:flex; justify-content:space-between; gap:12px; color:#748274; font-size:11px; padding-top:28px; border-top:1px solid #dce4d8; margin-top:12px; }
+button:focus-visible, a:focus-visible { outline:2px solid #006a50 !important; outline-offset:3px; }
+@media(max-width:700px) {
+  .gradio-container { padding:12px 16px 22px !important; }
+  .setu-hero { min-height:220px; padding:14px 0 28px; }
+  .setu-hero h1 { font-size:36px; }
+  .setu-hero h1 em { font-size:29px; }
+  .hero-art { width:110px; transform:scale(.6); transform-origin:right center; margin-right:0; flex-shrink:0; }
+  .hero-description { font-size:12px; }
+  #workspace { padding:14px; border-radius:19px; }
+  #translation-columns { flex-direction:column; }
+  .translation-card { min-width:0 !important; }
+  #language-bar { flex-wrap:wrap; }
+  #source textarea, #translation textarea { min-height:130px !important; font-size:19px !important; }
+  .setu-footer { flex-direction:column; }
+}
+@media(max-width:480px) { #example-row { grid-template-columns:1fr; gap:8px !important; } }
+@media(max-width:420px) { .hero-art { display:none; } .local-badge { font-size:10px; padding:7px 10px; } }

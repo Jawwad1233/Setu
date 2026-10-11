@@ -1,0 +1,765 @@
+{
+  "version": 1,
+  "provenance": "Corrections authored for the 62 observed development failures. Exact matches are curated retrieval, not model inference or independent evaluation.",
+  "entries": [
+    {
+      "id": "and_i_oop",
+      "source": "She accidentally knocked over her cup, and I oop, there it goes all over the floor.",
+      "plain_english": "She accidentally knocked her cup over. Oh, I was surprised—it is spilling all over the floor.",
+      "translation": "সে ভুল করে কাপটা উল্টে ফেলল। ওহ! দেখে আমি চমকে গেলাম—সব মেঝেতে ছড়িয়ে পড়ছে।",
+      "direction": "en-bn",
+      "issue": "Bangla changes knocking a cup over into throwing it.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "and_i_oop"
+      ]
+    },
+    {
+      "id": "asl",
+      "source": "Those new shoes are cool asl.",
+      "plain_english": "Those new shoes are extremely stylish.",
+      "translation": "ওই নতুন জুতাগুলো ভীষণ স্টাইলিশ।",
+      "direction": "en-bn",
+      "issue": "Rewrite still contains the idiom “as hell” instead of a plain intensifier.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "asl"
+      ]
+    },
+    {
+      "id": "aura",
+      "source": "Did you see Steph Curry’s clutch shot last night? He’s got crazy aura.",
+      "plain_english": "Did you see Steph Curry's successful shot at a crucial moment last night? He has an incredibly impressive presence.",
+      "translation": "গত রাতে গুরুত্বপূর্ণ মুহূর্তে স্টেফ কারির শটটা দেখেছ? ওর ব্যক্তিত্ব আর উপস্থিতি সত্যিই দারুণ।",
+      "direction": "en-bn",
+      "issue": "Adds “strange” and weakens the pressure-related meaning of “clutch”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "aura"
+      ]
+    },
+    {
+      "id": "aura_points",
+      "source": "He tripped walking into class and lost major aura points.",
+      "plain_english": "He tripped while walking into class and looked much less impressive to everyone.",
+      "translation": "ক্লাসে ঢুকতে গিয়ে সে হোঁচট খেল, আর সবার সামনে তার ভাবটা একেবারে কমে গেল।",
+      "direction": "en-bn",
+      "issue": "Bangla renders social coolness as physical coldness; wording needs correction.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "aura",
+        "aura_points"
+      ]
+    },
+    {
+      "id": "bbg",
+      "source": "I love that dress on you bbg! Bbg, I have soccer practice.",
+      "plain_english": "I love that dress on you, sweetheart! I had better go; I have soccer practice.",
+      "translation": "সোনা, ওই পোশাকে তোমাকে দারুণ লাগছে! এবার আমাকে যেতে হবে, ফুটবল অনুশীলন আছে।",
+      "direction": "en-bn",
+      "issue": "Drops both the affectionate address and the “better be going” sense.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "bbg"
+      ]
+    },
+    {
+      "id": "beige_flag",
+      "source": "His alphabetized bookshelf is a beige flag.",
+      "plain_english": "His alphabetized bookshelf is a harmless, unremarkable quirk.",
+      "translation": "তার বইগুলো অক্ষরক্রমে সাজিয়ে রাখার অভ্যাসটা একটু অদ্ভুত, তবে খারাপ কিছু নয়।",
+      "direction": "en-bn",
+      "issue": "Drops the alphabetized detail and changes a neutral quirk into criticism of a place.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "beige_flag"
+      ]
+    },
+    {
+      "id": "biblically_accurate",
+      "source": "My little brother drew a biblically accurate snowman and it’s kind of terrifying.",
+      "plain_english": "My little brother drew a strangely elaborate, unsettling snowman, and it is rather frightening.",
+      "translation": "আমার ছোট ভাই খুব উদ্ভট আর অস্বস্তিকর চেহারার একটা তুষারমানব এঁকেছে, দেখে একটু ভয়ই লাগে।",
+      "direction": "en-bn",
+      "issue": "Adds a religious-figure comparison and weakens the original reaction.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "biblically_accurate"
+      ]
+    },
+    {
+      "id": "big_back",
+      "source": "She ate that whole plate of spaghetti. That’s some big back behavior!",
+      "plain_english": "She ate that entire plate of spaghetti. That is fat, greedy-eater behavior!",
+      "translation": "সে পুরো প্লেট স্প্যাগেটি খেয়ে ফেলল। এ তো একেবারে মোটা পেটুকের কাণ্ড!",
+      "direction": "en-bn",
+      "issue": "Incorrectly replaces the eating/body-size insult with “rude behavior”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "big_back"
+      ]
+    },
+    {
+      "id": "bih",
+      "source": "She playfully teased her friend, calling her “bih,” as they laughed together.",
+      "plain_english": "She jokingly called her friend a bitch while they laughed together.",
+      "translation": "একসঙ্গে হাসতে হাসতে সে মজা করে তার বান্ধবীকে ‘বিচ’ বলে খেপাচ্ছিল।",
+      "direction": "en-bn",
+      "issue": "Leaves masked profanity, which may translate poorly.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "bih"
+      ]
+    },
+    {
+      "id": "boomer_okay_boomer",
+      "source": "When Clayton’s great-uncle started complaining about millennials’ work ethic, he responded with, “Okay, Boomer.”",
+      "plain_english": "When Clayton's great-uncle complained about millennials' work ethic, Clayton dismissively mocked his old-fashioned views.",
+      "translation": "ক্লেটনের বাবা বা মায়ের চাচা কিংবা মামা যখন মিলেনিয়াল প্রজন্মের কাজের মনোভাব নিয়ে অভিযোগ করলেন, ক্লেটন ‘আচ্ছা, সেকেলে মানুষ!’ বলে তাঁর কথা উড়িয়ে দিল।",
+      "direction": "en-bn",
+      "issue": "Bangla changes “great-uncle” to “great-grandfather”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "boomer_okay_boomer"
+      ]
+    },
+    {
+      "id": "brat",
+      "source": "Kamala is brat.",
+      "plain_english": "Kamala is boldly self-confident, carefree, and unapologetically herself.",
+      "translation": "কমলা আত্মবিশ্বাসী, বেপরোয়া আর নিজের মতো চলতে ভালোবাসে।",
+      "direction": "en-bn",
+      "issue": "Bangla uses an unsuitable equivalent for “non-conforming”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "brat"
+      ]
+    },
+    {
+      "id": "breadcrumbing",
+      "source": "He texts her once a week and then disappears. Classic breadcrumbing.",
+      "plain_english": "He sends her a text message once a week, then stops responding. He gives occasional attention without intending to commit.",
+      "translation": "সে সপ্তাহে একবার তাকে মেসেজ দেয়, তারপর আর সাড়া দেয় না। সম্পর্কে জড়ানোর ইচ্ছা ছাড়াই মাঝে মাঝে আশা দেখায়।",
+      "direction": "en-bn",
+      "issue": "Bangla turns texting into sending a letter.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "breadcrumbing"
+      ]
+    },
+    {
+      "id": "cake",
+      "source": "She caught him checking out her cake as she walked past him at the beach.",
+      "plain_english": "She caught him staring at her buttocks as she walked past him at the beach.",
+      "translation": "সমুদ্রসৈকতে তার পাশ দিয়ে যাওয়ার সময় সে টের পেল, লোকটা তার নিতম্বের দিকে তাকিয়ে আছে।",
+      "direction": "en-bn",
+      "issue": "Bangla uses an unclear literal “bottom” instead of the body part.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "cake"
+      ]
+    },
+    {
+      "id": "cap",
+      "source": "I actually went to class today. No cap.",
+      "plain_english": "I actually went to class today. I am telling the truth.",
+      "translation": "আজ সত্যিই ক্লাসে গিয়েছিলাম। মিথ্যা বলছি না।",
+      "direction": "en-bn",
+      "issue": "Bangla drops the explicit truthfulness emphasis.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "cap"
+      ]
+    },
+    {
+      "id": "caught_in_4k",
+      "source": "He thought he could get away with lying, but we have him caught in 4k.",
+      "plain_english": "He thought he could get away with lying, but we have clear evidence that exposes his lie.",
+      "translation": "সে ভেবেছিল মিথ্যা বলে পার পেয়ে যাবে, কিন্তু আমাদের কাছে তার মিথ্যার স্পষ্ট প্রমাণ আছে।",
+      "direction": "en-bn",
+      "issue": "Bangla does not clearly preserve being caught with evidence.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "caught_in_4k"
+      ]
+    },
+    {
+      "id": "chat",
+      "source": "Chat, do you think he’s telling the truth?",
+      "plain_english": "Everyone, do you think he is telling the truth?",
+      "translation": "সবাই বলো তো, তোমাদের কি মনে হয় সে সত্যি বলছে?",
+      "direction": "en-bn",
+      "issue": "Drops the address to the audience and changes the question wording.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "chat"
+      ]
+    },
+    {
+      "id": "clapback",
+      "source": "When Tori called her outfit cheugy, her clapback was for real!",
+      "plain_english": "When Tori called her outfit outdated, she gave a genuinely sharp, witty reply.",
+      "translation": "টোরি তার পোশাককে সেকেলে বলতেই সে দারুণ বুদ্ধিদীপ্ত আর কড়া জবাব দিল।",
+      "direction": "en-bn",
+      "issue": "Loses the sharp or witty comeback sense.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "cheugy",
+        "clapback",
+        "real"
+      ]
+    },
+    {
+      "id": "crash_out",
+      "source": "This game is making me so mad, I’m about to crash out.",
+      "plain_english": "This game is making me so angry that I am about to lose control of my temper.",
+      "translation": "এই খেলা দেখে এত রাগ হচ্ছে যে এখনই মেজাজ হারিয়ে ফেলব।",
+      "direction": "en-bn",
+      "issue": "Understates the loss of emotional control.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "crash_out",
+        "mad",
+        "so"
+      ]
+    },
+    {
+      "id": "dap",
+      "source": "That was sick! Dap me up!",
+      "plain_english": "That was amazing! Give me a friendly hand slap or fist bump!",
+      "translation": "ওটা দারুণ ছিল! আয়, হাত মিলিয়ে বা মুষ্টি ঠেকিয়ে অভিনন্দন জানাই!",
+      "direction": "en-bn",
+      "issue": "“Give me a hand gesture” does not clearly preserve the greeting request.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "dap",
+        "sick"
+      ]
+    },
+    {
+      "id": "faded",
+      "source": "You should have seen her last night, she was so faded.",
+      "plain_english": "You should have seen her last night; she was heavily intoxicated by marijuana.",
+      "translation": "গত রাতে ওকে দেখলে বুঝতে, ও গাঁজার নেশায় বুঁদ ছিল।",
+      "direction": "en-bn",
+      "issue": "The English rewrite retains ambiguous “high”; Bangla incorrectly uses physical height.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "faded",
+        "so"
+      ],
+      "sense_note": "Uses the marijuana sense specified by the supplied glossary; other contexts may use faded more broadly."
+    },
+    {
+      "id": "ffa",
+      "source": "I wish we could play in teams and not FFA.",
+      "plain_english": "I wish we could play in teams rather than having every player compete against everyone else.",
+      "translation": "ইশ, সবাই সবার বিরুদ্ধে না খেলে যদি দলে ভাগ হয়ে খেলতে পারতাম!",
+      "direction": "en-bn",
+      "issue": "“Free for all” is translated as being free of charge rather than each player competing independently.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "ffa"
+      ]
+    },
+    {
+      "id": "fire",
+      "source": "That waterslide is fire!",
+      "plain_english": "That water slide is amazing!",
+      "translation": "ওই ওয়াটার স্লাইডটা দারুণ!",
+      "direction": "en-bn",
+      "issue": "Bangla mistranslates the waterslide, although the positive slang sense is removed.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "fire"
+      ]
+    },
+    {
+      "id": "flavored_air",
+      "source": "He always has flavored air.",
+      "plain_english": "He always uses an electronic cigarette.",
+      "translation": "সে সব সময় ইলেকট্রনিক সিগারেট ব্যবহার করে।",
+      "direction": "en-bn",
+      "issue": "Bangla mistranslates “vapes” as a buzzing sound.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "flavored_air"
+      ]
+    },
+    {
+      "id": "fml",
+      "source": "I missed the bus this morning so I had to walk all the way to school. FML.",
+      "plain_english": "I missed the bus this morning, so I had to walk all the way to school. I am so frustrated with my life.",
+      "translation": "আজ সকালে বাস মিস করলাম, তাই পুরো পথ হেঁটে স্কুলে যেতে হলো। ধুর, জীবনটা নিয়ে একেবারে বিরক্ত!",
+      "direction": "en-bn",
+      "issue": "Leaves masked profanity rather than expressing extreme frustration plainly.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "fml",
+        "so"
+      ]
+    },
+    {
+      "id": "frfr",
+      "source": "I’m tired of waiting for my ride in this cold weather, FRFR!",
+      "plain_english": "I am truly tired of waiting for my ride in this cold weather. I really mean it!",
+      "translation": "এই ঠান্ডায় গাড়ির জন্য অপেক্ষা করতে করতে সত্যিই বিরক্ত হয়ে গেছি। একদম সত্যি বলছি!",
+      "direction": "en-bn",
+      "issue": "Repeats another idiom instead of clarifying the emphasis.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "frfr"
+      ]
+    },
+    {
+      "id": "furry",
+      "source": "He’s got a fursuit — he’s a legit furry.",
+      "plain_english": "He owns an animal costume and is genuinely a fan of fictional animal characters with human traits.",
+      "translation": "তার পশুর সাজের পোশাক আছে—মানুষের মতো আচরণ করে এমন কাল্পনিক প্রাণীচরিত্রের সে সত্যিকারের ভক্ত।",
+      "direction": "en-bn",
+      "issue": "Bangla mistranslates “anthropomorphic”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "furry"
+      ]
+    },
+    {
+      "id": "girl_math",
+      "source": "She’s using girl math to justify buying another pair of shoes because they were on sale.",
+      "plain_english": "She is jokingly using questionable calculations to justify buying another pair of shoes because the price was discounted.",
+      "translation": "দামে ছাড় ছিল বলে আরেক জোড়া জুতা কেনার পক্ষে সে মজা করে অদ্ভুত হিসাব দেখাচ্ছে।",
+      "direction": "en-bn",
+      "issue": "Bangla loses the discount meaning of “on sale”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "girl_math"
+      ]
+    },
+    {
+      "id": "gucci",
+      "source": "Person 1: I’ll pick you up in 10. Person 2: Gucci.",
+      "plain_english": "Person 1: I will pick you up in ten minutes. Person 2: That works for me.",
+      "translation": "প্রথম ব্যক্তি: দশ মিনিটের মধ্যে তোমাকে নিতে আসব। দ্বিতীয় ব্যক্তি: ঠিক আছে।",
+      "direction": "en-bn",
+      "issue": "Bangla misreads “in 10” as a numbered location.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "gucci"
+      ]
+    },
+    {
+      "id": "hella_skrilla",
+      "source": "My parents went out of town and left me hella skrilla.",
+      "plain_english": "My parents went out of town and left a lot of money for me.",
+      "translation": "আমার মা-বাবা শহরের বাইরে যাওয়ার সময় আমার জন্য অনেক টাকা রেখে গেছেন।",
+      "direction": "en-bn",
+      "issue": "Bangla reverses who was left with the money.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "hella_skrilla"
+      ]
+    },
+    {
+      "id": "hollywood",
+      "source": "After Alice made the cheerleading team she became Hollywood.",
+      "plain_english": "After Alice joined the cheerleading team, she started acting as if she were better than everyone else.",
+      "translation": "চিয়ারলিডিং দলে যোগ দেওয়ার পর অ্যালিস নিজেকে সবার চেয়ে বড় ভাবতে শুরু করল।",
+      "direction": "en-bn",
+      "issue": "Bangla translates acting superior awkwardly as acting at a higher level.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "hollywood"
+      ]
+    },
+    {
+      "id": "left_on_read",
+      "source": "I texted him last night, but he left me on read. I’m not sure if he’s busy or just ignoring me.",
+      "plain_english": "I sent him a text message last night. He read it but did not reply. I do not know whether he is busy or ignoring me.",
+      "translation": "গত রাতে ওকে মেসেজ দিয়েছিলাম। পড়েছে, কিন্তু উত্তর দেয়নি। বুঝতে পারছি না, ব্যস্ত নাকি আমাকে এড়িয়ে যাচ্ছে।",
+      "direction": "en-bn",
+      "issue": "Bangla changes a text message into a letter.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "left_on_read",
+        "read"
+      ]
+    },
+    {
+      "id": "lewk",
+      "source": "She showed up to the party in a stunning lewk that turned heads all night.",
+      "plain_english": "She arrived at the party wearing an impressive outfit that attracted everyone's attention all evening.",
+      "translation": "সে এমন দারুণ পোশাকে পার্টিতে এল যে সারা সন্ধ্যা সবাই ওর দিকেই তাকাচ্ছিল।",
+      "direction": "en-bn",
+      "issue": "Bangla renders turning heads literally rather than attracting attention.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "lewk"
+      ]
+    },
+    {
+      "id": "lfg",
+      "source": "I’m cheering on my team tonight. LFG!",
+      "plain_english": "I am cheering for my team tonight. Come on, let us win this!",
+      "translation": "আজ রাতে নিজের দলের জন্য গলা ফাটাচ্ছি। চল, জিততে হবে!",
+      "direction": "en-bn",
+      "issue": "Leaves masked profanity and another colloquial phrase.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "lfg"
+      ]
+    },
+    {
+      "id": "lms",
+      "source": "LMS to enter the giveaway.",
+      "plain_english": "Like my post to enter the giveaway.",
+      "translation": "উপহার জেতার আয়োজনে অংশ নিতে আমার পোস্টে লাইক দাও।",
+      "direction": "en-bn",
+      "issue": "Drops the giveaway condition and changes the request into an explanation.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "lms"
+      ]
+    },
+    {
+      "id": "low_taper_fade",
+      "source": "You say that this backpack is cool, but you know what else is cool? A ‘low taper fade!’",
+      "plain_english": "You say this backpack is cool, but do you know what else is cool? A haircut that gradually becomes shorter near the lower sides and back of the head!",
+      "translation": "তুমি বলছ ব্যাগটা দারুণ, কিন্তু আর কী দারুণ জানো? মাথার পাশের নিচের দিকে আর পেছনে ধীরে ধীরে ছোট করে কাটা চুলের ‘লো টেপার ফেড’ স্টাইল!",
+      "direction": "en-bn",
+      "issue": "Bangla describes fading colors rather than the haircut.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "low_taper_fade"
+      ]
+    },
+    {
+      "id": "ong",
+      "source": "I just saw them kissing! ong",
+      "plain_english": "I just saw them kissing! I swear it is true!",
+      "translation": "এইমাত্র ওদের চুমু খেতে দেখলাম! কসম, সত্যি বলছি!",
+      "direction": "en-bn",
+      "issue": "Leaves “On God” without clarifying the sincerity.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "ong"
+      ]
+    },
+    {
+      "id": "plug",
+      "source": "Her older brother always has a plug.",
+      "plain_english": "Her older brother always knows a supplier who can obtain hard-to-find goods.",
+      "translation": "তার বড় ভাইয়ের সব সময় এমন কারও সঙ্গে যোগাযোগ থাকে, যে সহজে পাওয়া যায় না এমন জিনিস জোগাড় করে দিতে পারে।",
+      "direction": "en-bn",
+      "issue": "Invents drugs where only a supplier of hard-to-find goods is established.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "plug"
+      ]
+    },
+    {
+      "id": "pmoys",
+      "source": "He sent me a PMOYS message on Instagram.",
+      "plain_english": "He sent me an Instagram message asking me to add him on Snapchat.",
+      "translation": "সে ইনস্টাগ্রামে মেসেজ দিয়ে আমাকে বলেছে, তাকে যেন স্ন্যাপচ্যাটে যোগ করি।",
+      "direction": "en-bn",
+      "issue": "Reverses who is asking to be added on Snapchat.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "pmoys"
+      ]
+    },
+    {
+      "id": "pwn",
+      "source": "That math test just pwned me!",
+      "plain_english": "I did terribly on that math test!",
+      "translation": "ওই গণিত পরীক্ষায় আমার একেবারে ভরাডুবি হয়েছে!",
+      "direction": "en-bn",
+      "issue": "Awkward literal paraphrase instead of being badly defeated by the test.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "pwn"
+      ]
+    },
+    {
+      "id": "ratchet",
+      "source": "I’m so sick of these ratchet girls coming over.",
+      "plain_english": "I am tired of these unruly, tasteless girls coming over.",
+      "translation": "এই অসভ্য আর রুচিহীন মেয়েগুলোর আসা-যাওয়ায় আমি বিরক্ত।",
+      "direction": "en-bn",
+      "issue": "Bangla uses an unsuitable word for “tacky”.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "ratchet",
+        "sick",
+        "so"
+      ]
+    },
+    {
+      "id": "real",
+      "source": "You think you can pull off that dress? Be so for real.",
+      "plain_english": "Do you really think that dress would look good on you? Be serious.",
+      "translation": "তোমার কি সত্যিই মনে হয় ওই পোশাকে তোমাকে মানাবে? একটু সিরিয়াস হও।",
+      "direction": "en-bn",
+      "issue": "Misreads “pull off that dress” as attracting romantic attention.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "pulling",
+        "real",
+        "so"
+      ]
+    },
+    {
+      "id": "rizz",
+      "source": "That boy has so much rizz, he hasn’t been single since elementary school.",
+      "plain_english": "That boy is so good at attracting romantic interest that he has not been without a partner since elementary school.",
+      "translation": "ছেলেটা প্রেমে আকর্ষণ তৈরি করতে এত পটু যে প্রাথমিক স্কুলের পর থেকে কখনো প্রেমের সঙ্গী ছাড়া থাকেনি।",
+      "direction": "en-bn",
+      "issue": "Bangla changes charming people into being good toward attractive people.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "rizz",
+        "so"
+      ]
+    },
+    {
+      "id": "rotflmao",
+      "source": "When she told her joke, everyone replied with ROTFLMAO and a string of laughing emojis.",
+      "plain_english": "When she told her joke, everyone replied that they were laughing extremely hard and sent many laughing emojis.",
+      "translation": "সে কৌতুকটা বলতেই সবাই লিখল যে হাসতে হাসতে গড়াগড়ি খাচ্ছে, সঙ্গে পাঠাল অনেকগুলো হাসির ইমোজি।",
+      "direction": "en-bn",
+      "issue": "Leaves a masked idiom instead of clearly expressing intense laughter.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "rotflmao"
+      ]
+    },
+    {
+      "id": "sick",
+      "source": "Did you see that tackle? That was sick!",
+      "plain_english": "Did you see that tackle in the game? It was amazing!",
+      "translation": "খেলার ওই ট্যাকলটা দেখেছ? দারুণ ছিল!",
+      "direction": "en-bn",
+      "issue": "Bangla mistranslates the sports tackle.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "sick"
+      ]
+    },
+    {
+      "id": "skibidi_toilet",
+      "source": "My brother watches Skibidi Toilet.",
+      "plain_english": "My brother watches the series titled Skibidi Toilet.",
+      "translation": "আমার ভাই ‘স্কিবিডি টয়লেট’ দেখে।",
+      "direction": "en-bn",
+      "issue": "Expands the title of a series even though it is a proper name.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "skibidi_toilet"
+      ]
+    },
+    {
+      "id": "slay",
+      "source": "You slayed your dance recital!",
+      "plain_english": "You performed brilliantly at your dance show!",
+      "translation": "তোমার নাচের অনুষ্ঠানে তুমি দারুণ করেছ!",
+      "direction": "en-bn",
+      "issue": "Bangla mistranslates a dance recital as recitation.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "slay"
+      ]
+    },
+    {
+      "id": "small_dick_energy",
+      "source": "I would never date him. He has small dick energy.",
+      "plain_english": "I would never be in a romantic relationship with him. He hides his insecurity behind a show of confidence.",
+      "translation": "আমি কখনো ওর সঙ্গে প্রেম করব না। ও আত্মবিশ্বাস দেখিয়ে নিজের হীনম্মন্যতা ঢাকে।",
+      "direction": "en-bn",
+      "issue": "Bangla changes dating into meeting.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "small_dick_energy"
+      ]
+    },
+    {
+      "id": "sparks",
+      "source": "Party at my place tonight. Sparks at 8:30!",
+      "plain_english": "There is a party at my place tonight. We will light a marijuana joint at 8:30 tonight!",
+      "translation": "আজ রাতে আমার বাসায় পার্টি। রাত সাড়ে আটটায় গাঁজার জয়েন্ট ধরানো হবে!",
+      "direction": "en-bn",
+      "issue": "Bangla changes tonight’s 8:30 into the morning.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "sparks"
+      ]
+    },
+    {
+      "id": "swoop",
+      "source": "Since your car’s in the shop, I’ll swoop in 10.",
+      "plain_english": "Since your car is being repaired at the garage, I will pick you up in ten minutes.",
+      "translation": "তোমার গাড়ি যেহেতু গ্যারেজে মেরামত হচ্ছে, দশ মিনিটের মধ্যে তোমাকে নিতে আসব।",
+      "direction": "en-bn",
+      "issue": "Bangla changes an interval (“in 10”) into a clock time and treats the repair shop as a shop.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "swoop"
+      ]
+    },
+    {
+      "id": "tea",
+      "source": "Sarah will know about that, just ask her. She loves to spill the tea.",
+      "plain_english": "Sarah will know about that; ask her. She loves sharing gossip.",
+      "translation": "সারা ওটার খবর জানবে, ওকেই জিজ্ঞেস করো। ও গসিপ করতে খুব ভালোবাসে।",
+      "direction": "en-bn",
+      "issue": "Bangla weakens sharing gossip into simply talking.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "tea"
+      ]
+    },
+    {
+      "id": "tfw",
+      "source": "TFW you cozy up with a hot chocolate watching the snowfall outside.",
+      "plain_english": "That lovely feeling when you sit comfortably with hot chocolate and watch the snow falling outside.",
+      "translation": "হট চকলেট নিয়ে আরাম করে বসে বাইরের তুষারপাত দেখার সেই ভালো লাগার অনুভূতি।",
+      "direction": "en-bn",
+      "issue": "Bangla mistranslates snuggling up as jumping.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "tfw"
+      ]
+    },
+    {
+      "id": "thot",
+      "source": "She felt hurt when she overheard her classmates whispering “thot” behind her back.",
+      "plain_english": "She felt hurt when she heard her classmates insult her as a promiscuous girl behind her back.",
+      "translation": "আড়ালে সহপাঠীরা তাকে ‘চরিত্রহীন মেয়ে’ বলে গালি দিচ্ছে শুনে সে কষ্ট পেল।",
+      "direction": "en-bn",
+      "issue": "Expands the acronym into another slang insult (“ho”).",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "thot"
+      ]
+    },
+    {
+      "id": "thirst_trap",
+      "source": "All he posts are thirst traps on Tiktok.",
+      "plain_english": "All his TikTok posts are sexually suggestive pictures or videos designed to attract attention.",
+      "translation": "টিকটকে ওর সব পোস্টই যৌন আবেদন দেখিয়ে নজর কাড়ার ছবি বা ভিডিও।",
+      "direction": "en-bn",
+      "issue": "Drops the suggestive or sexual aspect of the attention-seeking post.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": []
+    },
+    {
+      "id": "totes",
+      "source": "She was totes out of line for saying that.",
+      "plain_english": "What she said was completely inappropriate.",
+      "translation": "ওর কথাটা একেবারেই অনুচিত ছিল।",
+      "direction": "en-bn",
+      "issue": "The rewrite leaves “out of line”, which Bangla translates literally.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "totes"
+      ]
+    },
+    {
+      "id": "unc",
+      "source": "Just walking up those stairs made me so tired, I think I’ve reached unc status.",
+      "plain_english": "Just climbing those stairs exhausted me. I think I am getting old.",
+      "translation": "ওই সিঁড়ি বেয়েই ক্লান্ত হয়ে গেলাম। মনে হচ্ছে বয়স হয়ে যাচ্ছে!",
+      "direction": "en-bn",
+      "issue": "“Uncle status” misses the joke about seeming old.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "so",
+        "unc"
+      ]
+    },
+    {
+      "id": "understood_the_assignment",
+      "source": "This was the best birthday ever! You definitely understood the assignment.",
+      "plain_english": "This was my best birthday ever! You understood exactly what would make it special and did it brilliantly.",
+      "translation": "এটা আমার জীবনের সেরা জন্মদিন! কী করলে দিনটা বিশেষ হবে, তুমি ঠিক বুঝেছ আর দারুণভাবে করেছ।",
+      "direction": "en-bn",
+      "issue": "The rewrite uses another idiom (“above and beyond”), producing a literal Bangla result.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "understood_the_assignment"
+      ]
+    },
+    {
+      "id": "upper_decky",
+      "source": "I don’t think I’ve ever seen Heidi without an upper decky.",
+      "plain_english": "I do not think I have ever seen Heidi without a nicotine pouch tucked under her upper lip.",
+      "translation": "আমার মনে হয়, ওপরের ঠোঁটের নিচে নিকোটিনের পাউচ ছাড়া হেইদিকে কখনো দেখিনি।",
+      "direction": "en-bn",
+      "issue": "Keeps a brand name instead of explaining the nicotine pouch.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "upper_decky"
+      ]
+    },
+    {
+      "id": "zombie",
+      "source": "He ghosted me in March and just texted “hey” — total zombie.",
+      "plain_english": "He stopped contacting me in March, then unexpectedly reappeared by sending a message saying hey.",
+      "translation": "মার্চে সে আমার সঙ্গে যোগাযোগ বন্ধ করেছিল, আর এখন হঠাৎ ‘হেই’ লিখে আবার হাজির হয়েছে।",
+      "direction": "en-bn",
+      "issue": "Leaves the returning-after-ghosting metaphor unexplained.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "ghost",
+        "zombie"
+      ]
+    },
+    {
+      "id": "control_tea_spill_literal",
+      "source": "She spilled the tea on the floor.",
+      "plain_english": "She accidentally spilled tea on the floor.",
+      "translation": "তার হাত থেকে চা মেঝেতে পড়ে গেল।",
+      "direction": "en-bn",
+      "issue": "English is preserved, but Bangla changes an accidental spill into pouring.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "tea"
+      ]
+    },
+    {
+      "id": "control_cap_literal",
+      "source": "The bottle has no cap.",
+      "plain_english": "The bottle has no lid.",
+      "translation": "বোতলটার ঢাকনা নেই।",
+      "direction": "en-bn",
+      "issue": "English is preserved, but Bangla uses “hat” rather than the bottle lid.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "cap"
+      ]
+    },
+    {
+      "id": "control_plug_literal",
+      "source": "The electrical plug is broken.",
+      "plain_english": "The electrical plug is broken.",
+      "translation": "বৈদ্যুতিক প্লাগটা ভাঙা।",
+      "direction": "en-bn",
+      "issue": "English is preserved, but Bangla uses “pole” rather than electrical plug.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "plug"
+      ]
+    },
+    {
+      "id": "control_fire_variant",
+      "source": "This biryani is fire.",
+      "plain_english": "This biryani tastes excellent.",
+      "translation": "এই বিরিয়ানিটা দারুণ মজার।",
+      "direction": "en-bn",
+      "issue": "Bangla is literal and unnatural for food praise.",
+      "review_status": "assistant-authored correction; native-speaker review pending",
+      "terms": [
+        "fire"
+      ]
+    }
+  ]
+}

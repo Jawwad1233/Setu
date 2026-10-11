@@ -1,0 +1,3043 @@
+{
+  "source": "User-provided English slang glossary",
+  "source_sha256": "83bd97e1393b4046a1e055467058e4213d9adc154c4c0de3a271331c5dbf9926",
+  "imported_on": "2026-09-26",
+  "entries": [
+    {
+      "id": "addy",
+      "term": "Addy",
+      "definition": "Abbreviation for Address.",
+      "examples": [
+        "I’ll meet you there, just send me the addy."
+      ],
+      "aliases": [
+        "Addy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "af",
+      "term": "AF",
+      "definition": "An acronym that stands for As f**k.",
+      "examples": [
+        "I had the time of my life at the concert. It was lit AF!"
+      ],
+      "aliases": [
+        "AF"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "amirite",
+      "term": "Amirite",
+      "definition": "An informal way to say “am I right,” used to seek agreement after making a statement.",
+      "examples": [
+        "That taco was bomb, amirite?"
+      ],
+      "aliases": [
+        "Amirite"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "amped",
+      "term": "Amped",
+      "definition": "Excited",
+      "examples": [
+        "I’m amped for the concert tonight!"
+      ],
+      "aliases": [
+        "Amped"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "and_i_oop",
+      "term": "And I oop",
+      "definition": "Used to express surprise, shock, or realization, often in response to something unexpected or amusing.",
+      "examples": [
+        "She accidentally knocked over her cup, and I oop, there it goes all over the floor."
+      ],
+      "aliases": [
+        "And I oop"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "asl",
+      "term": "ASL",
+      "definition": "An abbreviation for “as hell.” It is used as an intensifier. This term may also be used as an acronym for “age, sex, location,” to quickly inquire about someone’s basic demographic information. But that usage has mostly been replaced by Gen Z with the new “as hell” usage.",
+      "examples": [
+        "Those new shoes are cool asl."
+      ],
+      "aliases": [
+        "ASL"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ate_and_left_no_crumbs",
+      "term": "Ate and left no crumbs",
+      "definition": "Refers to someone who did something so well that there’s no chance for anyone else to do it better.",
+      "examples": [
+        "Did you see Emma’s floor routine? She ate and left no crumbs!"
+      ],
+      "aliases": [
+        "Ate and left no crumbs"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "aura",
+      "term": "Aura",
+      "definition": "Like the traditional definition, it is used to compliment someone’s ability, perceived power, or sense of coolness and mystery. It became popular in soccer and basketball communities on Twitter in 2023 so it is often used to compliment athletes.",
+      "examples": [
+        "Did you see Steph Curry’s clutch shot last night? He’s got crazy aura."
+      ],
+      "aliases": [
+        "Aura"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "aura_points",
+      "term": "Aura points",
+      "definition": "Imaginary points someone gains or loses for doing something cool or embarrassing. A humorous way to rate a person’s coolness in the moment.",
+      "examples": [
+        "He tripped walking into class and lost major aura points."
+      ],
+      "aliases": [
+        "Aura points"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bae",
+      "term": "Bae",
+      "definition": "Boyfriend or girlfriend.",
+      "examples": [
+        "Wait, bae is calling me."
+      ],
+      "aliases": [
+        "Bae"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bandwagon",
+      "term": "Bandwagon",
+      "definition": "Someone who takes an interest in something just to fit in with the crowd.",
+      "examples": [
+        "Maggie suddenly loves rugby, she is a major bandwagon fan."
+      ],
+      "aliases": [
+        "Bandwagon"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "basic",
+      "term": "Basic",
+      "definition": "Someone who is unoriginal and only interested in popular, trending things.",
+      "examples": [
+        "She’s so basic with her pumpkin spice latte."
+      ],
+      "aliases": [
+        "Basic"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bbg",
+      "term": "BBG",
+      "definition": "An acronym that stands for baby girl, describing something or someone cute. It can also stand for: Better be going, a polite way to end a conversation.",
+      "examples": [
+        "I love that dress on you bbg!",
+        "Bbg, I have soccer practice."
+      ],
+      "aliases": [
+        "BBG"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bde",
+      "term": "BDE",
+      "definition": "An acronym that stands for: Big dick energy, someone who is secure and exudes confidence without arrogance.",
+      "examples": [
+        "I knew she would get the internship—she has major BDE!"
+      ],
+      "aliases": [
+        "BDE"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bed_rot",
+      "term": "Bed rot",
+      "definition": "Spending extended periods of time in bed, often engaging in activities like watching TV or reading.",
+      "examples": [
+        "After a hectic week, I’m looking forward to some much-needed bed rot this weekend."
+      ],
+      "aliases": [
+        "Bed rot"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "beige_flag",
+      "term": "Beige flag",
+      "definition": "Used humorously to refer to a situation that is mundane, uninteresting, or lacking excitement.",
+      "examples": [
+        "His alphabetized bookshelf is a beige flag."
+      ],
+      "aliases": [
+        "Beige flag"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bet",
+      "term": "Bet",
+      "definition": "In agreement with something, or used for okay or affirmative.",
+      "examples": [
+        "Person 1: Want to come over to my house?",
+        "Person 2: Bet!"
+      ],
+      "aliases": [
+        "Bet"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "biblically_accurate",
+      "term": "Biblically accurate",
+      "definition": "Describes something strange, overwhelming, or unsettling to look at, referencing depictions of “biblically accurate angels.” Usually used humorously.",
+      "examples": [
+        "My little brother drew a biblically accurate snowman and it’s kind of terrifying."
+      ],
+      "aliases": [
+        "Biblically accurate"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "big_back",
+      "term": "Big back",
+      "definition": "Refers to someone who is overweight, typically to bully or shame them.",
+      "examples": [
+        "She ate that whole plate of spaghetti. That’s some big back behavior!"
+      ],
+      "aliases": [
+        "Big back"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "big_yikes",
+      "term": "Big yikes",
+      "definition": "A reaction to something very awkward, uncomfortable, or embarrassing.",
+      "examples": [
+        "He tried to lie and got caught immediately — big yikes."
+      ],
+      "aliases": [
+        "Big yikes"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bih",
+      "term": "Bih",
+      "definition": "A phonetic spelling of “b***h.” Often used in a less aggressive way, and depending on the tone and context, can be used jokingly among friends or as a playful term of endearment.",
+      "examples": [
+        "She playfully teased her friend, calling her “bih,” as they laughed together."
+      ],
+      "aliases": [
+        "Bih"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "blueprint",
+      "term": "Blueprint",
+      "definition": "Someone who did something so well they became the standard everyone else copies.",
+      "examples": [
+        "The way she styles those outfits — she’s the blueprint."
+      ],
+      "aliases": [
+        "Blueprint"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "body_count",
+      "term": "Body count",
+      "definition": "The number of sexual partners someone has had.",
+      "examples": [
+        "She was hesitant to reveal her body count, fearing she’d be judged."
+      ],
+      "aliases": [
+        "Body count"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "boo",
+      "term": "Boo",
+      "definition": "A term of endearment used to refer to a romantic partner.",
+      "examples": [
+        "I can’t wait to see my boo tonight."
+      ],
+      "aliases": [
+        "Boo"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "boo_d_up",
+      "term": "Boo’d up",
+      "definition": "Refers to being in a romantic relationship with someone.",
+      "examples": [
+        "After months of flirting, they finally boo’d up."
+      ],
+      "aliases": [
+        "Boo'd up"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "boomer_okay_boomer",
+      "term": "Boomer/Okay Boomer",
+      "definition": "A dismissive retort used to mock the opinions, ideas, or attitudes of older individuals, particularly members of the Baby Boomer generation.",
+      "examples": [
+        "When Clayton’s great-uncle started complaining about millennials’ work ethic, he responded with, “Okay, Boomer.”"
+      ],
+      "aliases": [
+        "boomer",
+        "okay boomer",
+        "ok boomer"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "boujee",
+      "term": "Boujee",
+      "definition": "Rich, luxurious, fancy",
+      "examples": [
+        "You grew up going to this boujee country club?"
+      ],
+      "aliases": [
+        "Boujee"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "brat",
+      "term": "Brat",
+      "definition": "A term coined by singer Charlie XCX in a tweet, “brat” describes a person (often female) who is genuine, self-possessed, non-conforming, with a rebellious streak. It is represented by a florescent, chartreuse green, which symbolizes making a statement.",
+      "examples": [
+        "Kamala is brat."
+      ],
+      "aliases": [
+        "Brat"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "breadcrumbing",
+      "term": "Breadcrumbing",
+      "definition": "Giving someone just enough occasional attention or flirty messages to keep them interested, with no intention of actually committing.",
+      "examples": [
+        "He texts her once a week and then disappears. Classic breadcrumbing."
+      ],
+      "aliases": [
+        "Breadcrumbing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "bussin",
+      "term": "Bussin’",
+      "definition": "Something is really good.",
+      "examples": [
+        "This burrito is bussin’! I’m definitely coming back here."
+      ],
+      "aliases": [
+        "bussin",
+        "bussin'"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "buttah",
+      "term": "Buttah",
+      "definition": "A compliment that describes something that is smooth, easy, and good.",
+      "examples": [
+        "That new song you dropped is pure buttah."
+      ],
+      "aliases": [
+        "Buttah"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cake",
+      "term": "Cake",
+      "definition": "A large, well-shaped bottom.",
+      "examples": [
+        "She caught him checking out her cake as she walked past him at the beach."
+      ],
+      "aliases": [
+        "Cake"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cap",
+      "term": "Cap",
+      "definition": "Lying or faking.",
+      "examples": [
+        "I actually went to class today. No cap."
+      ],
+      "aliases": [
+        "cap",
+        "no cap",
+        "capping"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cash",
+      "term": "Cash",
+      "definition": "Awesome or cool.",
+      "examples": [
+        "That new movie is so cash!"
+      ],
+      "aliases": [
+        "Cash"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "catch_feels",
+      "term": "Catch feels",
+      "definition": "Develop romantic or emotional attachment to someone.",
+      "examples": [
+        "I noticed Lea starting to catch feels for Bruce."
+      ],
+      "aliases": [
+        "Catch feels"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "catfish",
+      "term": "Catfish",
+      "definition": "A person who creates a fake online persona to deceive others.",
+      "examples": [
+        "He thought he was talking to a model on the dating app, but it turned out to be a catfish using stolen photos from the internet."
+      ],
+      "aliases": [
+        "Catfish"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "caught_in_4k",
+      "term": "Caught in 4k",
+      "definition": "Someone caught in the act of something compromising.",
+      "examples": [
+        "He thought he could get away with lying, but we have him caught in 4k."
+      ],
+      "aliases": [
+        "Caught in 4k"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "chad",
+      "term": "Chad",
+      "definition": "A stereotypical, confident, dominant male. Often used humorously and with negative connotations.",
+      "examples": [
+        "He thinks he knows everything. He’s such a Chad."
+      ],
+      "aliases": [
+        "Chad"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "chat",
+      "term": "Chat",
+      "definition": "Used to refer to a group of people, like friends or people in their class.",
+      "examples": [
+        "Chat, do you think he’s telling the truth?"
+      ],
+      "aliases": [
+        "Chat"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cheugy",
+      "term": "Cheugy",
+      "definition": "Someone or something that is out-of-date, unfashionable, or trying too hard.",
+      "examples": [
+        "I can’t believe she’s still wearing skinny jeans, that’s so cheugy."
+      ],
+      "aliases": [
+        "Cheugy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "chopped",
+      "term": "Chopped",
+      "definition": "Unattractive, low quality, or badly done.",
+      "examples": [
+        "That haircut came out chopped."
+      ],
+      "aliases": [
+        "Chopped"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "clapback",
+      "term": "Clapback",
+      "definition": "A sharp and witty response to criticism or an insult.",
+      "examples": [
+        "When Tori called her outfit cheugy, her clapback was for real!"
+      ],
+      "aliases": [
+        "Clapback"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "clock_clocking",
+      "term": "Clock/clocking",
+      "definition": "To notice or call out something, especially something a person was trying to hide.",
+      "examples": [
+        "She clocked that he wasn’t telling the truth."
+      ],
+      "aliases": [
+        "clock",
+        "clocked",
+        "clocking"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cooked",
+      "term": "Cooked",
+      "definition": "Something or someone that is done, exhausted, or doomed.",
+      "examples": [
+        "I was up all night but didn’t even get halfway through the study guide, I’m cooked."
+      ],
+      "aliases": [
+        "Cooked"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "core_cottagecore_barbiecore_etc",
+      "term": "Core (Cottagecore, Barbiecore, etc.)",
+      "definition": "A suffix used to describe a specific aesthetic, lifestyle, or vibe.",
+      "examples": [
+        "Her outfits are very cottagecore lately."
+      ],
+      "aliases": [
+        "cottagecore",
+        "barbiecore"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "crash_out",
+      "term": "Crash out",
+      "definition": "To get mad or upset despite your better judgment.",
+      "examples": [
+        "This game is making me so mad, I’m about to crash out."
+      ],
+      "aliases": [
+        "Crash out"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cray_cray",
+      "term": "Cray cray",
+      "definition": "Short for crazy.",
+      "examples": [
+        "I’ve been so busy this week, it’s cray cray!"
+      ],
+      "aliases": [
+        "Cray cray"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "cringe",
+      "term": "Cringe",
+      "definition": "A feeling of embarrassment and discomfort.",
+      "examples": [
+        "Watching Annie try to talk to James was so cringe."
+      ],
+      "aliases": [
+        "Cringe"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "crossfaded",
+      "term": "Crossfaded",
+      "definition": "Being drunk and high at the same time.",
+      "examples": [
+        "Richie shouldn’t drive, he’s crossfaded."
+      ],
+      "aliases": [
+        "Crossfaded"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "curve",
+      "term": "Curve",
+      "definition": "The act of rejecting or ignoring someone’s romantic advances.",
+      "examples": [
+        "Despite her attempts to flirt with him, he consistently curved her."
+      ],
+      "aliases": [
+        "curve",
+        "curved",
+        "curving"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dank",
+      "term": "Dank",
+      "definition": "Excellent, high quality.",
+      "examples": [
+        "The party last night was dank!"
+      ],
+      "aliases": [
+        "Dank"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dap",
+      "term": "Dap",
+      "definition": "A gesture of greeting or expression of admiration between two people performed with hands, similar to a low-five and handshake.",
+      "examples": [
+        "That was sick! Dap me up!"
+      ],
+      "aliases": [
+        "Dap"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dayroom",
+      "term": "Dayroom",
+      "definition": "Something or someone that is basic and uninteresting.",
+      "examples": [
+        "Everything about him is dayroom."
+      ],
+      "aliases": [
+        "Dayroom"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dead_dying_ded",
+      "term": "Dead/Dying/Ded",
+      "definition": "A response to something really funny.",
+      "examples": [
+        "That meme you sent me. I’m dead!"
+      ],
+      "aliases": [
+        "dead",
+        "dying",
+        "ded"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "delulu",
+      "term": "Delulu",
+      "definition": "Abbreviation for Delusional. Someone who has unrealistic or irrational beliefs, and is disconnected from reality.",
+      "examples": [
+        "His delulu theories are entertaining, but far-fetched."
+      ],
+      "aliases": [
+        "Delulu"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dip",
+      "term": "Dip",
+      "definition": "To leave suddenly or early.",
+      "examples": [
+        "I’m about to dip."
+      ],
+      "aliases": [
+        "Dip"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dl",
+      "term": "DL",
+      "definition": "An acronym that stands for: Down low, referring to an activity or information that is meant to be kept discreet.",
+      "examples": [
+        "We’ve been talking, but we’re keeping it on the DL for now."
+      ],
+      "aliases": [
+        "DL"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dope",
+      "term": "Dope",
+      "definition": "Something that is exceptional or awesome.",
+      "examples": [
+        "That bike is dope!"
+      ],
+      "aliases": [
+        "Dope"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dox",
+      "term": "Dox",
+      "definition": "To seek out and publish private information online about someone, usually with malicious intentions.",
+      "examples": [
+        "Jennifer got doxed after getting in a fight with someone during an online game, now her address and phone number are all over social media."
+      ],
+      "aliases": [
+        "dox",
+        "doxed",
+        "doxxed",
+        "doxxing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "drag",
+      "term": "Drag",
+      "definition": "To mock or humiliate someone.",
+      "examples": [
+        "Bettie will never be invited back after she dragged Peter."
+      ],
+      "aliases": [
+        "drag",
+        "dragged",
+        "dragging"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "drip",
+      "term": "Drip",
+      "definition": "Sophisticated or stylish in appearance.",
+      "examples": [
+        "You got drip with those new shoes."
+      ],
+      "aliases": [
+        "Drip"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dtf",
+      "term": "DTF",
+      "definition": "An acronym that stands for Down to f**k. Indicates a person’s willingness to engage in sexual activity.",
+      "examples": [
+        "She asked him if he was DTF, but he wasn’t sure how to respond."
+      ],
+      "aliases": [
+        "DTF"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "dub",
+      "term": "Dub",
+      "definition": "Short for W, meaning win or winner.",
+      "examples": [
+        "We took the dub."
+      ],
+      "aliases": [
+        "Dub"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "egirl_eboy",
+      "term": "Egirl/Eboy",
+      "definition": "Frequently found on TikTok, it’s someone who has adopted an edgy style including a blushed nose, heavy eyeliner, and little hearts under the eyes.",
+      "examples": [
+        "I’ve been thinking about changing my style to something more like an Eboy."
+      ],
+      "aliases": [
+        "egirl",
+        "eboy",
+        "e-girl",
+        "e-boy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "extra",
+      "term": "Extra",
+      "definition": "Attention grabbing or dramatic.",
+      "examples": [
+        "I didn’t invite her, she’s too extra."
+      ],
+      "aliases": [
+        "Extra"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "facts",
+      "term": "Facts",
+      "definition": "Emphasizes agreement of something that is accurate or true.",
+      "examples": [
+        "Person 1: His new album is fire. Person 2: Straight facts!"
+      ],
+      "aliases": [
+        "Facts"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "faded",
+      "term": "Faded",
+      "definition": "Being under the influence of marijuana.",
+      "examples": [
+        "You should have seen her last night, she was so faded."
+      ],
+      "aliases": [
+        "Faded"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fan_service",
+      "term": "Fan service",
+      "definition": "Elements added to an entertainment piece that is a subtle nod to avid fans, like an inside joke that other viewers won’t understand. Also known as easter eggs.",
+      "examples": [
+        "If you’re a Marvel fan you’ll love this episode. It has a ton of fan service."
+      ],
+      "aliases": [
+        "Fan service"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fboi",
+      "term": "FBOI",
+      "definition": "Abbreviation for F**kboy. A derogatory term used to describe a promiscuous, manipulative, and disrespectful man.",
+      "examples": [
+        "She quickly realized he was just another fboi when he started ghosting her after their first date."
+      ],
+      "aliases": [
+        "FBOI"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ffa",
+      "term": "FFA",
+      "definition": "Free for all, in a multi-player video game all players must fend for themselves.",
+      "examples": [
+        "I wish we could play in teams and not FFA."
+      ],
+      "aliases": [
+        "FFA"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "finna",
+      "term": "Finna",
+      "definition": "Abbreviation for fixing to, or going to.",
+      "examples": [
+        "I’m finna go to the mall."
+      ],
+      "aliases": [
+        "Finna"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "finsta",
+      "term": "Finsta",
+      "definition": "A combination of the words “fake” and “Instagram.” Refers to a secondary or private Instagram account that users create to share content with a smaller, more selective audience.",
+      "examples": [
+        "She posted silly selfies and behind-the-scenes moments on her finsta for her close friends to see."
+      ],
+      "aliases": [
+        "Finsta"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fire",
+      "term": "Fire",
+      "definition": "Amazing or exciting.",
+      "examples": [
+        "That waterslide is fire!"
+      ],
+      "aliases": [
+        "Fire"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fit",
+      "term": "Fit",
+      "definition": "An outfit.",
+      "examples": [
+        "You’re always so fashionable. Amazing fit!"
+      ],
+      "aliases": [
+        "Fit"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "flavored_air",
+      "term": "Flavored air",
+      "definition": "Vaping.",
+      "examples": [
+        "He always has flavored air."
+      ],
+      "aliases": [
+        "Flavored air"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "flex",
+      "term": "Flex",
+      "definition": "To flaunt or brag about something.",
+      "examples": [
+        "He’s flexing with those kicks."
+      ],
+      "aliases": [
+        "flex",
+        "flexing",
+        "flexed"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fml",
+      "term": "FML",
+      "definition": "F**k my life, often used at the conclusion of a negative story.",
+      "examples": [
+        "I missed the bus this morning so I had to walk all the way to school. FML."
+      ],
+      "aliases": [
+        "FML"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fr",
+      "term": "FR",
+      "definition": "An acronym that means: For real, to agree with someone.",
+      "examples": [
+        "Person 1: The homework was so hard.",
+        "Person 2: FR."
+      ],
+      "aliases": [
+        "FR"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "frfr",
+      "term": "FRFR",
+      "definition": "Abbreviation for: for real for real. A way to emphasize sincerity or seriousness.",
+      "examples": [
+        "I’m tired of waiting for my ride in this cold weather, FRFR!"
+      ],
+      "aliases": [
+        "FRFR"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ftw",
+      "term": "FTW",
+      "definition": "An acronym that means: For the win. An enthusiastic emphasis to express approval or support.",
+      "examples": [
+        "I just tried the best Thai restaurant. Mango sticky rice FTW!"
+      ],
+      "aliases": [
+        "FTW"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fuhuhluhtoogan",
+      "term": "Fuhuhluhtoogan",
+      "definition": "Someone who is good in bed. The word is credited to Baltimore rapper, Richard Webster (rap name Bippleyipsnipp), and became popular on TikTok in late 2023.",
+      "examples": [
+        "She’s a fuhuhluhtoogan."
+      ],
+      "aliases": [
+        "Fuhuhluhtoogan"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fugly",
+      "term": "Fugly",
+      "definition": "F***ing ugly, or extremely ugly.",
+      "examples": [
+        "I can’t believe I wore that! It’s so fugly."
+      ],
+      "aliases": [
+        "Fugly"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "furry",
+      "term": "Furry",
+      "definition": "A person who is a fan of anthropomorphic animals (animals with human characteristics), or someone who dresses up to resemble the animal.",
+      "examples": [
+        "He’s got a fursuit — he’s a legit furry."
+      ],
+      "aliases": [
+        "Furry"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fw",
+      "term": "FW",
+      "definition": "An acronym for, “F**k With,” that is used to express that someone really likes something or someone.",
+      "examples": [
+        "I don’t usually like superhero movies, but I really fw this movie. It’s so funny!"
+      ],
+      "aliases": [
+        "FW"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fwb",
+      "term": "FWB",
+      "definition": "An acronym for “friends with benefits.” An arrangement where two people engage in sexual activity without being in a committed romantic relationship.",
+      "examples": [
+        "She wasn’t interested in a serious commitment, so she proposed the idea of being FWB to him."
+      ],
+      "aliases": [
+        "FWB"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "fyp",
+      "term": "FYP",
+      "definition": "Refers to TikTok’s “For You Page” that’s filled with recommended content and videos personalized for the viewer.",
+      "examples": [
+        "My FYP had the weirdest feed today."
+      ],
+      "aliases": [
+        "FYP"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "g",
+      "term": "G",
+      "definition": "A term of endearment for friends.",
+      "examples": [
+        "I have nothing but love and respect for my G."
+      ],
+      "aliases": [
+        "G"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "gassing",
+      "term": "Gassing",
+      "definition": "Exaggerating someone else’s abilities, accomplishments, or qualities.",
+      "examples": [
+        "She’s already confident enough, she doesn’t need any more gassing."
+      ],
+      "aliases": [
+        "Gassing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "gg",
+      "term": "GG",
+      "definition": "An acronym that stands for: Good game, used to acknowledge a player’s skill at the end of multiplayer video games.",
+      "examples": [
+        "GG! We should play again sometime."
+      ],
+      "aliases": [
+        "GG"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ghost",
+      "term": "Ghost",
+      "definition": "Cutting off communication with someone with no explanation.",
+      "examples": [
+        "We went on a date, and then he ghosted me."
+      ],
+      "aliases": [
+        "ghost",
+        "ghosted",
+        "ghosting"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "girl_math",
+      "term": "Girl math",
+      "definition": "Used in a lighthearted or humorous way when someone calculated things in a way that might not follow conventional rules.",
+      "examples": [
+        "She’s using girl math to justify buying another pair of shoes because they were on sale."
+      ],
+      "aliases": [
+        "Girl math"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "girl_dinner",
+      "term": "Girl dinner",
+      "definition": "A social media trend to describe a meal made up of small snacks, random, or unhealthy food as “dinner.”",
+      "examples": [
+        "“I had some pickles and a left over milkshake last night. Girl dinner!”"
+      ],
+      "aliases": [
+        "Girl dinner"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "gigachad",
+      "term": "Gigachad",
+      "definition": "A term to describe “the ultimate man,” or someone that is particularly masculine, muscular, or handsome.",
+      "examples": [
+        "My crush is so cute. He is such a gigachad!"
+      ],
+      "aliases": [
+        "Gigachad"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "giving_me_life",
+      "term": "Giving me life",
+      "definition": "Something or someone that is exciting.",
+      "examples": [
+        "This warm weather is giving me life!"
+      ],
+      "aliases": [
+        "Giving me life"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "glazing",
+      "term": "Glazing",
+      "definition": "Excessively praising or hyping someone up to an over-the-top or embarrassing degree. Similar to “gassing.”",
+      "examples": [
+        "We get it, you love him — stop glazing."
+      ],
+      "aliases": [
+        "Glazing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "glow_up",
+      "term": "Glow-up",
+      "definition": "A major transformation in appearance in a way that is generally perceived as attractive.",
+      "examples": [
+        "She had a glow-up. She looks great!"
+      ],
+      "aliases": [
+        "glow-up",
+        "glow up"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "goat",
+      "term": "GOAT",
+      "definition": "An acronym that stands for: Greatest of all time, praising someone for being the best. A variation of GOAT is “goated,” as in, “keep winning like that and you’re going to get goated!”",
+      "examples": [
+        "My coach is the GOAT!"
+      ],
+      "aliases": [
+        "goat",
+        "goated"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "granola",
+      "term": "Granola",
+      "definition": "A person who is environmentally aware, and enjoys the outdoors.",
+      "examples": [
+        "You’ll probably run into her on a hike. She’s a granola."
+      ],
+      "aliases": [
+        "Granola"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "guap",
+      "term": "Guap",
+      "definition": "A large sum of money.",
+      "examples": [
+        "Sally must have paid a guap for those shoes."
+      ],
+      "aliases": [
+        "Guap"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "gucci",
+      "term": "Gucci",
+      "definition": "Fancy, fashionable, or excellent.",
+      "examples": [
+        "Person 1: I’ll pick you up in 10.",
+        "Person 2: Gucci."
+      ],
+      "aliases": [
+        "Gucci"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "gyat",
+      "term": "Gyat",
+      "definition": "Abbreviation for girl your a** is thick, and also godd**n. A way to express admiration and excitement, usually about someone’s backside.",
+      "examples": [
+        "Gyat! Those jeans make you look so good!"
+      ],
+      "aliases": [
+        "Gyat"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hammered",
+      "term": "Hammered",
+      "definition": "Extremely intoxicated from alcohol or drugs.",
+      "examples": [
+        "He was so hammered we had to take him to the E.R."
+      ],
+      "aliases": [
+        "Hammered"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "heated",
+      "term": "Heated",
+      "definition": "Angry or frustrated.",
+      "examples": [
+        "He got heated when he thought I took his ball."
+      ],
+      "aliases": [
+        "Heated"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "heem",
+      "term": "Heem",
+      "definition": "A better version of something, the total package.",
+      "examples": [
+        "The new boy is heem!"
+      ],
+      "aliases": [
+        "Heem"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hella_skrilla",
+      "term": "Hella Skrilla",
+      "definition": "To have a large sum of money.",
+      "examples": [
+        "My parents went out of town and left me hella skrilla."
+      ],
+      "aliases": [
+        "Hella Skrilla"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "here_for_this",
+      "term": "Here for this",
+      "definition": "Excited about something, showing support.",
+      "examples": [
+        "You’re an amazing artist. I’m here for this."
+      ],
+      "aliases": [
+        "Here for this"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "high_key",
+      "term": "High key",
+      "definition": "Something that is overt, obvious, or done with a high level of intensity.",
+      "examples": [
+        "I high key love that new movie."
+      ],
+      "aliases": [
+        "High key"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "highlighter_kid",
+      "term": "Highlighter kid",
+      "definition": "A young child who wears neon colored clothes.",
+      "examples": [
+        "Look for Adam! You can’t miss him, he’s a highlighter kid."
+      ],
+      "aliases": [
+        "Highlighter kid"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hits_different",
+      "term": "Hits different",
+      "definition": "Something that is special, unique, or causes a strong emotional reaction that is difficult to articulate.",
+      "examples": [
+        "My mom’s cooking just hits different."
+      ],
+      "aliases": [
+        "Hits different"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hollywood",
+      "term": "Hollywood",
+      "definition": "A negative change in behavior in someone who achieves success and looks down on their past life.",
+      "examples": [
+        "After Alice made the cheerleading team she became Hollywood."
+      ],
+      "aliases": [
+        "Hollywood"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hop_off",
+      "term": "Hop off",
+      "definition": "An expression used to tell someone to stop bothering or annoying another.",
+      "examples": [
+        "When he kept pestering her with questions, she told him to hop off and give her some space."
+      ],
+      "aliases": [
+        "Hop off"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hot_take",
+      "term": "Hot take",
+      "definition": "A strongly worded and often controversial opinion on a current event or popular topic.",
+      "examples": [
+        "I watched the new superhero movie. The cast was amazing, but the storyline was sketch. That’s my hot take for the day."
+      ],
+      "aliases": [
+        "Hot take"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hunty",
+      "term": "Hunty",
+      "definition": "Combination of “honey” and “c**t.” Often used in the LGBTQ+ community (especially within the transgender community) as a term of endearment or familiarity among friends.",
+      "examples": [
+        "“Hey hunty, you look fabulous in that outfit!”"
+      ],
+      "aliases": [
+        "Hunty"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "hype",
+      "term": "Hype",
+      "definition": "Excited, or something is good.",
+      "examples": [
+        "This song is so hype!"
+      ],
+      "aliases": [
+        "Hype"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ick",
+      "term": "Ick",
+      "definition": "A feeling of disgust towards someone or something.",
+      "examples": [
+        "Did you see how mean he was to his little brother? That’s such an ick."
+      ],
+      "aliases": [
+        "Ick"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "icymi",
+      "term": "ICYMI",
+      "definition": "An acronym that stands for: In case you missed it.",
+      "examples": [
+        "ICYMI, I’m headed to Cal State this fall!"
+      ],
+      "aliases": [
+        "ICYMI"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "irl",
+      "term": "IRL",
+      "definition": "An acronym that stands for In real life. Used to distinguish between online and offline interactions.",
+      "examples": [
+        "He has a lot of online friends, but he’s never met them in IRL."
+      ],
+      "aliases": [
+        "IRL"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "iso",
+      "term": "ISO",
+      "definition": "An acronym that stands for In search of. Used in online forums, classified ads, or social media posts to indicate that someone is looking for a specific item, service, or information.",
+      "examples": [
+        "ISO vintage vinyl records."
+      ],
+      "aliases": [
+        "ISO"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "iykyk",
+      "term": "IYKYK",
+      "definition": "An acronym that stands for: If you know, you know. Indicates insider knowledge or a shared experience between a group of people.",
+      "examples": [
+        "The ski trip was wild! IYKYK."
+      ],
+      "aliases": [
+        "IYKYK"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "jittleyang",
+      "term": "Jittleyang",
+      "definition": "Another word (see fuhuhluhtoogan) credited to Baltimore rapper, Richard Webster, that became popular on TikTok in late 2023. No clear definition exists but, as best we can tell, it refers to someone or something that grabs attention.",
+      "examples": [
+        "That hat is a jittleyang!"
+      ],
+      "aliases": [
+        "Jittleyang"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "juul",
+      "term": "Juul",
+      "definition": "A brand of electronic cigarettes, also known as a vape.",
+      "examples": [
+        "She discreetly pulled out her Juul and took a puff while waiting for the bus."
+      ],
+      "aliases": [
+        "Juul"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "kda",
+      "term": "KDA",
+      "definition": "An acronym that stands for: Kills/Deaths/Assists, a tally of how many kills, deaths, and assists a gamer has in a game.",
+      "examples": [
+        "Your KDA was dope this game."
+      ],
+      "aliases": [
+        "KDA"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "keep_it_100",
+      "term": "Keep it 100",
+      "definition": "To be honest, genuine, and authentic in all situations.",
+      "examples": [
+        "I appreciate when my friends keep it 100 with me, even if the truth might be hard to hear."
+      ],
+      "aliases": [
+        "Keep it 100"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "kms",
+      "term": "KMS",
+      "definition": "An acronym that stands for Kill myself. Often used in a joking manner to express extreme frustration, disappointment, or annoyance with a situation. It can also be used when talking about suicide or self-harm.",
+      "examples": [
+        "The teacher just announced a pop quiz. KMS."
+      ],
+      "aliases": [
+        "KMS"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "krunk",
+      "term": "Krunk",
+      "definition": "Extremely intoxicated with a mixture of alcohol and drugs.",
+      "examples": [
+        "He got krunk last night."
+      ],
+      "aliases": [
+        "Krunk"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "kys",
+      "term": "KYS",
+      "definition": "An acronym that stands for Kill yourself. An offensive and harmful phrase used to harass someone, often online.",
+      "examples": [
+        "Someone’s been cyberbullying her and sending KYS messages."
+      ],
+      "aliases": [
+        "KYS"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "l",
+      "term": "L",
+      "definition": "Loss, loser.",
+      "examples": [
+        "He took the L."
+      ],
+      "aliases": [
+        "L"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "left_on_read",
+      "term": "Left on read",
+      "definition": "When someone has read a message sent to them, but has not responded to it.",
+      "examples": [
+        "I texted him last night, but he left me on read. I’m not sure if he’s busy or just ignoring me."
+      ],
+      "aliases": [
+        "left on read",
+        "left me on read",
+        "left you on read",
+        "left her on read",
+        "left him on read"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "let_them_cook",
+      "term": "Let them cook",
+      "definition": "Trusting someone’s abilities and giving them the freedom to handle things their own way.",
+      "examples": [
+        "I know you want to help, but they’ve got it under control. Let’s just sit back and let them cook."
+      ],
+      "aliases": [
+        "Let them cook"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "let_s_get_this_bread",
+      "term": "Let’s get this bread",
+      "definition": "A motivational phrase to encourage oneself or others to work hard, often in the context of achieving financial stability.",
+      "examples": [
+        "After weeks of preparation, it’s finally time to give that presentation. Let’s get this bread!"
+      ],
+      "aliases": [
+        "Let's get this bread"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "lewk",
+      "term": "Lewk",
+      "definition": "A stylized spelling of “look.” A carefully curated or striking outfit, appearance, or aesthetic.",
+      "examples": [
+        "She showed up to the party in a stunning lewk that turned heads all night."
+      ],
+      "aliases": [
+        "Lewk"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "lfg",
+      "term": "LFG",
+      "definition": "An acronym that stands for: Let’s f**king go, excited for an upcoming event or competition.",
+      "examples": [
+        "I’m cheering on my team tonight. LFG!"
+      ],
+      "aliases": [
+        "LFG"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "lit",
+      "term": "Lit",
+      "definition": "Exciting, excellent, or intoxicated.",
+      "examples": [
+        "The movie was lit!"
+      ],
+      "aliases": [
+        "Lit"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "lmao",
+      "term": "LMAO",
+      "definition": "An acronym that stands for: Laughing my a** off, indicates something is funny.",
+      "examples": [
+        "Remember when I fell going up the stairs? LMAO!"
+      ],
+      "aliases": [
+        "LMAO"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "lms",
+      "term": "LMS",
+      "definition": "An acronym that stands for: Like my status, used on social media asking for viewers to like the content.",
+      "examples": [
+        "LMS to enter the giveaway."
+      ],
+      "aliases": [
+        "LMS"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "lol",
+      "term": "LOL",
+      "definition": "An acronym that stands for: Laugh out loud, expressing amusement at something.",
+      "examples": [
+        "LOL at your ostrich video!"
+      ],
+      "aliases": [
+        "LOL"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "looksmaxxing",
+      "term": "Looksmaxxing",
+      "definition": "Boys who are trying  to improve their appearance through various methods such as a new haircut, implementing a skincare routine, exercising, and changing their diets.",
+      "examples": [
+        "Connor really embraced looksmaxxing. He looks completely different."
+      ],
+      "aliases": [
+        "Looksmaxxing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "low_taper_fade",
+      "term": "Low taper fade",
+      "definition": "Although this is a type of hairstyle, the phrase comes from a meme started by Eric Della, a music artist. During a livestream, he was freestyling. He referenced a fellow streamer known as Ninja and said, “Imagine if Ninja got a low taper fade!” After Ninja responded by changing his hair, kids started using the phrase in random moments as a fun, light-hearted joke.",
+      "examples": [
+        "You say that this backpack is cool, but you know what else is cool? A ‘low taper fade!’"
+      ],
+      "aliases": [
+        "Low taper fade"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "mad",
+      "term": "Mad",
+      "definition": "Really, extremely, or crazy.",
+      "examples": [
+        "It’s mad hot outside."
+      ],
+      "aliases": [
+        "Mad"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "meatriding",
+      "term": "Meatriding",
+      "definition": "Excessively praising or defending someone in an embarrassing or over-the-top way.",
+      "examples": [
+        "The comments turned messy once people started meatriding the creator."
+      ],
+      "aliases": [
+        "Meatriding"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "menty_b",
+      "term": "Menty b",
+      "definition": "Abbreviation for mental breakdown.",
+      "examples": [
+        "There’s too much going on right now. I feel on the edge of a menty b."
+      ],
+      "aliases": [
+        "Menty b"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "mewing",
+      "term": "Mewing",
+      "definition": "A facial exercise technique involving proper tongue placement to accentuate a sharp jaw.",
+      "examples": [
+        "Her jawline is looking snatched. I bet she’s been mewing."
+      ],
+      "aliases": [
+        "Mewing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "mid",
+      "term": "Mid",
+      "definition": "Average or not great.",
+      "examples": [
+        "That show was mid."
+      ],
+      "aliases": [
+        "Mid"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "mogging",
+      "term": "Mogging",
+      "definition": "One- upping someone on appearance and attractiveness.",
+      "examples": [
+        "I wonder if Jared realizes he’s mogging everyone in the weight room."
+      ],
+      "aliases": [
+        "Mogging"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "munch",
+      "term": "Munch",
+      "definition": "A person who performs oral sex on a woman.",
+      "examples": [
+        "I don’t want to date him, he’s a munch."
+      ],
+      "aliases": [
+        "Munch"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "netflix_and_chill",
+      "term": "Netflix and chill",
+      "definition": "A euphemism for hooking up.",
+      "examples": [
+        "I asked Ricky if he wanted to Netflix and chill, and he actually came ready with popcorn. lol"
+      ],
+      "aliases": [
+        "Netflix and chill"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ngl",
+      "term": "NGL",
+      "definition": "An acronym that stands for: Not gonna lie, admitting something honestly and openly.",
+      "examples": [
+        "A lot of people didn’t like the movie, but ngl, I loved it."
+      ],
+      "aliases": [
+        "NGL"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "nsfw",
+      "term": "NSFW",
+      "definition": "An acronym that stands for Not safe for work. Used to label content, such as images, videos, or links, that may contain explicit or inappropriate material not suitable for viewing in a professional or public setting.",
+      "examples": [
+        "I can’t open that link right now. It’s marked as NSFW, and I’m at school."
+      ],
+      "aliases": [
+        "NSFW"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "omg",
+      "term": "OMG",
+      "definition": "An acronym that stands for: Oh my gosh/God, indicates something is shocking or surprising.",
+      "examples": [
+        "omg, I can’t believe you just said that!"
+      ],
+      "aliases": [
+        "OMG"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "oml",
+      "term": "OML",
+      "definition": "An acronym that stands for: Oh my Lord, an exclamation of surprise or excitement.",
+      "examples": [
+        "oml, you scared me!"
+      ],
+      "aliases": [
+        "OML"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "omw",
+      "term": "OMW",
+      "definition": "An acronym that stands for: On my way, a way to indicate a person is en route.",
+      "examples": [
+        "omw! I’ll be there in 20."
+      ],
+      "aliases": [
+        "OMW"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ong",
+      "term": "ONG",
+      "definition": "On God, a way to show strong agreement with something, similar to “I swear to God.”",
+      "examples": [
+        "I just saw them kissing! ong"
+      ],
+      "aliases": [
+        "ONG"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "on_fleek",
+      "term": "On fleek",
+      "definition": "Perfectly done, exactly right, excellent.",
+      "examples": [
+        "Your make up is on fleek."
+      ],
+      "aliases": [
+        "On fleek"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "on_point",
+      "term": "On point",
+      "definition": "Perfect, exactly right.",
+      "examples": [
+        "His outfit is on point."
+      ],
+      "aliases": [
+        "On point"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "only_in_ohio",
+      "term": "Only in Ohio",
+      "definition": "Used to label things that are strange or cursed.",
+      "examples": [
+        "Why are there rats on the train? Only in Ohio."
+      ],
+      "aliases": [
+        "Only in Ohio"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ops",
+      "term": "Ops",
+      "definition": "Opponents, either in video games or real life.",
+      "examples": [
+        "Dude, he got sent to the principal’s office. The ops got him."
+      ],
+      "aliases": [
+        "ops",
+        "opps"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "otp",
+      "term": "OTP",
+      "definition": "An acronym that stands for One true pairing. Refers to a favorite or ideal romantic pairing between characters in a book, movie, TV show, or video game.",
+      "examples": [
+        "I’ve shipped this OTP since the pilot episode. They have the best chemistry on screen."
+      ],
+      "aliases": [
+        "OTP"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "periodt",
+      "term": "Periodt",
+      "definition": "Emphasizes the  finality and decisiveness of a statement.",
+      "examples": [
+        "He’s the best dancer in the group, periodt."
+      ],
+      "aliases": [
+        "Periodt"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "plug",
+      "term": "Plug",
+      "definition": "A person who can supply someone with illegal or hard-to-find goods, especially drugs.",
+      "examples": [
+        "Her older brother always has a plug."
+      ],
+      "aliases": [
+        "Plug"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "pmoys",
+      "term": "PMOYS",
+      "definition": "An acronym that stands for Put me on your Snapchat. Used as a request or invitation to add someone to their list of Snapchat contacts.",
+      "examples": [
+        "He sent me a PMOYS message on Instagram."
+      ],
+      "aliases": [
+        "PMOYS"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "poggers",
+      "term": "Poggers",
+      "definition": "An expression of excitement, amazement, or enthusiasm. Mostly used by gamers.",
+      "examples": [
+        "When he pulled off that incredible play, the chat exploded with poggers."
+      ],
+      "aliases": [
+        "Poggers"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "preppy",
+      "term": "Preppy",
+      "definition": "Describes an aesthetic or style, specifically one that’s colorful, girly, and typically involves name brands like Lululemon.",
+      "examples": [
+        "Your skirt is so cute and preppy!"
+      ],
+      "aliases": [
+        "Preppy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "pressed",
+      "term": "Pressed",
+      "definition": "Feeling annoyed or stressed about something.",
+      "examples": [
+        "Why are you so pressed?"
+      ],
+      "aliases": [
+        "Pressed"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "pulling",
+      "term": "Pulling",
+      "definition": "To attract attention from romantic interests.",
+      "examples": [
+        "I saw him pull at least five girls at the party."
+      ],
+      "aliases": [
+        "pulling",
+        "pull",
+        "pulled"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "put_on_blast",
+      "term": "Put on blast",
+      "definition": "To embarrass someone publicly over social media by denouncing or exposing them.",
+      "examples": [
+        "He was put on blast for breaking up with her over a text."
+      ],
+      "aliases": [
+        "Put on blast"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "pwn",
+      "term": "Pwn",
+      "definition": "To have power over someone or something.",
+      "examples": [
+        "That math test just pwned me!"
+      ],
+      "aliases": [
+        "pwn",
+        "pwned",
+        "pwning"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rad",
+      "term": "Rad",
+      "definition": "Awesome, or very good.",
+      "examples": [
+        "This view is rad."
+      ],
+      "aliases": [
+        "Rad"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ran_through",
+      "term": "Ran through",
+      "definition": "A derogatory term to describe someone who is perceived as being overly sexually active or as having had too many sexual partners.",
+      "examples": [
+        "Don’t talk to him, he is so ran through. He’s been with every girl in school."
+      ],
+      "aliases": [
+        "Ran through"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ratchet",
+      "term": "Ratchet",
+      "definition": "Someone who is out of control, or tacky.",
+      "examples": [
+        "I’m so sick of these ratchet girls coming over."
+      ],
+      "aliases": [
+        "Ratchet"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "read",
+      "term": "Read",
+      "definition": "Publicly pointing out someone’s flaws.",
+      "examples": [
+        "We don’t hang out anymore, he was always reading me."
+      ],
+      "aliases": [
+        "read",
+        "reading"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "real",
+      "term": "Real",
+      "definition": "Another way to say “serious.” It is often used as part of other phrases like “the real real” or “be f**king for real” (often abbreviated to bffr).",
+      "examples": [
+        "You think you can pull off that dress? Be so for real."
+      ],
+      "aliases": [
+        "Real"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "receipts",
+      "term": "Receipts",
+      "definition": "Evidence or proof of someone’s actions or words, often used to support a claim.",
+      "examples": [
+        "When she accused him of lying, he came prepared with receipts, showing screenshots of their conversations to prove his point."
+      ],
+      "aliases": [
+        "Receipts"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rent_free",
+      "term": "Rent free",
+      "definition": "Obsessing over someone or something, living inside someone’s head.",
+      "examples": [
+        "What he said to me still lives in my head rent free."
+      ],
+      "aliases": [
+        "Rent free"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rizz",
+      "term": "Rizz",
+      "definition": "The ability to seduce or charm a potential love interest.",
+      "examples": [
+        "That boy has so much rizz, he hasn’t been single since elementary school."
+      ],
+      "aliases": [
+        "Rizz"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rizzler",
+      "term": "Rizzler",
+      "definition": "Someone who is very good at flirting or charming others.",
+      "examples": [
+        "He walked up and started a conversation effortlessly — total rizzler."
+      ],
+      "aliases": [
+        "Rizzler"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rotflmao",
+      "term": "ROTFLMAO",
+      "definition": "An acronym that stands for: Rolling on the floor laughing my a** off. A humorous and exaggerated way to express that something is funny or amusing.",
+      "examples": [
+        "When she told her joke, everyone replied with ROTFLMAO and a string of laughing emojis."
+      ],
+      "aliases": [
+        "ROTFLMAO"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rn",
+      "term": "RN",
+      "definition": "Abbreviation for: right now. Indicates something that’s happening at the present moment.",
+      "examples": [
+        "I’m busy rn, can I call you later?"
+      ],
+      "aliases": [
+        "RN"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "rpg",
+      "term": "RPG",
+      "definition": "An acronym that stands for: Role-playing game, a genre of games where the player controls a character and explores an imaginary world.",
+      "examples": [
+        "She’s really into RPG."
+      ],
+      "aliases": [
+        "RPG"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "salty",
+      "term": "Salty",
+      "definition": "Upset, resentful, or irritated.",
+      "examples": [
+        "He was salty after losing, so I told him to leave the game."
+      ],
+      "aliases": [
+        "Salty"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "savage",
+      "term": "Savage",
+      "definition": "A fierce or bold person.",
+      "examples": [
+        "He’s savage on the court."
+      ],
+      "aliases": [
+        "Savage"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "say_less",
+      "term": "Say less",
+      "definition": "Agreement or understanding, so no further explanation is needed because the point has been understood.",
+      "examples": [
+        "When she suggested going to their favorite restaurant, he simply nodded and said, “say less.”"
+      ],
+      "aliases": [
+        "Say less"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "sending_me",
+      "term": "Sending me",
+      "definition": "Response to a funny text message, expressing extreme amusement.",
+      "examples": [
+        "lollll that panda meme is sending me!"
+      ],
+      "aliases": [
+        "Sending me"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "shade",
+      "term": "Shade",
+      "definition": "Subtle contempt or disgust for someone. This is often used as part of the phrase, “throw shade.”",
+      "examples": [
+        "Did she just throw shade at me?"
+      ],
+      "aliases": [
+        "shade",
+        "throw shade",
+        "throwing shade"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "ship",
+      "term": "Ship",
+      "definition": "To support the romantic relationship between two people.",
+      "examples": [
+        "I totally ship Timothee Chalamet and Kylie Jenner."
+      ],
+      "aliases": [
+        "ship",
+        "shipped",
+        "shipping"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "shook",
+      "term": "Shook",
+      "definition": "Shocked or surprised.",
+      "examples": [
+        "She actually did the assignment. I’m shook!"
+      ],
+      "aliases": [
+        "Shook"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "shorty",
+      "term": "Shorty",
+      "definition": "An attractive girl",
+      "examples": [
+        "Hey, shorty! Let’s go grab a drink."
+      ],
+      "aliases": [
+        "Shorty"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "sick",
+      "term": "Sick",
+      "definition": "Cool or awesome.",
+      "examples": [
+        "Did you see that tackle? That was sick!"
+      ],
+      "aliases": [
+        "Sick"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "sigma",
+      "term": "Sigma",
+      "definition": "(or Sigma Male) a type for male who is cool, successful, and popular but introverted and possibly rebellious. It carries a similar meaning to the term “lone wolf.”",
+      "examples": [
+        "Michael is definitely a sigma."
+      ],
+      "aliases": [
+        "Sigma"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "simp",
+      "term": "Simp",
+      "definition": "Someone who is desperate for affection or romantic relationships.",
+      "examples": [
+        "Dude, you’re being such a simp."
+      ],
+      "aliases": [
+        "Simp"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "skibidi_toilet",
+      "term": "Skibidi Toilet",
+      "definition": "An animated YouTube series that depicts a dystopian world where mobile toilets with human heads popping out of their bowls war with humanoids who have cameras, speakers, or TVs for heads. By 2024, it has become popular with Gen Alpha and the youngest portion of Gen Z.",
+      "examples": [],
+      "aliases": [
+        "Skibidi Toilet"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "slap",
+      "term": "Slap",
+      "definition": "Amazing or excellent.",
+      "examples": [
+        "This song slaps!"
+      ],
+      "aliases": [
+        "slap",
+        "slaps"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "slay",
+      "term": "Slay",
+      "definition": "Doing something extremely well.",
+      "examples": [
+        "You slayed your dance recital!"
+      ],
+      "aliases": [
+        "slay",
+        "slayed",
+        "slaying"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "slim_thick_thicc",
+      "term": "Slim thick/thicc",
+      "definition": "A body type that combines both slimness and thickness. Usually someone who has a small waist, but wider hips and thighs, like an hourglass figure.",
+      "examples": [
+        "She’s got that slim thick figure that turns heads wherever she goes."
+      ],
+      "aliases": [
+        "slim thick",
+        "slim thicc",
+        "thicc"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "small_dick_energy",
+      "term": "Small dick energy",
+      "definition": "Someone who is insecure, but acts overly confident to compensate.",
+      "examples": [
+        "I would never date him. He has small dick energy."
+      ],
+      "aliases": [
+        "Small dick energy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "smash",
+      "term": "Smash",
+      "definition": "To have casual sex with someone or to hook up.",
+      "examples": [
+        "I love that actor! I would totally smash him."
+      ],
+      "aliases": [
+        "smash",
+        "smashed",
+        "smashing"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "smh",
+      "term": "SMH",
+      "definition": "Abbreviation for shaking my head. Used when there are no words to describe something stupid.",
+      "examples": [
+        "I warned Zane he didn’t have enough time to shower before his flight. I was right, he missed it. Smh."
+      ],
+      "aliases": [
+        "SMH"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "smol",
+      "term": "Smol",
+      "definition": "Describes something small, cute, or endearing.",
+      "examples": [
+        "That smol kitty is so adorable."
+      ],
+      "aliases": [
+        "Smol"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "smut",
+      "term": "Smut",
+      "definition": "Sexually explicit written content like romance novels or some fanfiction.",
+      "examples": [
+        "That book is just smut."
+      ],
+      "aliases": [
+        "Smut"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "snack",
+      "term": "Snack",
+      "definition": "Someone who is attractive or appealing, often in a physical sense.",
+      "examples": [
+        "That lifeguard is a total snack."
+      ],
+      "aliases": [
+        "Snack"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "snatched",
+      "term": "Snatched",
+      "definition": "Perfect, attractive.",
+      "examples": [
+        "She was looking snatched at the dance."
+      ],
+      "aliases": [
+        "Snatched"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "sneaky_link",
+      "term": "Sneaky link",
+      "definition": "A secret hookup or relationship.",
+      "examples": [
+        "She was my sneaky link last year."
+      ],
+      "aliases": [
+        "Sneaky link"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "so",
+      "term": "SO",
+      "definition": "An acronym that stands for: Shout out, a public expression of greeting, praise, or acknowledgement directed towards a person. It is also known for Significant Other.",
+      "examples": [
+        "SO to Sophie for taking this picture of me."
+      ],
+      "aliases": [
+        "SO"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "sparks",
+      "term": "Sparks",
+      "definition": "The exact moment that a joint of marijuana is or will be lit.",
+      "examples": [
+        "Party at my place tonight. Sparks at 8:30!"
+      ],
+      "aliases": [
+        "Sparks"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "stan",
+      "term": "Stan",
+      "definition": "A mixture of stalker and fan, someone who is obsessed with a person.",
+      "examples": [
+        "I used to stan him so bad in junior high."
+      ],
+      "aliases": [
+        "stan",
+        "stanned",
+        "stanning"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "standing_on_business",
+      "term": "Standing on business",
+      "definition": "Taking care of your responsibilities or following through on what you said, with confidence and seriousness.",
+      "examples": [
+        "He apologized to everyone he wronged. He’s standing on business."
+      ],
+      "aliases": [
+        "Standing on business"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "stoked",
+      "term": "Stoked",
+      "definition": "Very Excited",
+      "examples": [
+        "I was so stoked he invited me."
+      ],
+      "aliases": [
+        "Stoked"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "sus",
+      "term": "Sus",
+      "definition": "Suspicious, suspect. Often used as “slim sus” to mean “a little bit suspicious.” It originates from the game Among Us.",
+      "examples": [
+        "Are you hiding something? You’ve been acting super sus lately."
+      ],
+      "aliases": [
+        "Sus"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "swerve",
+      "term": "Swerve",
+      "definition": "To go out of one’s way to avoid someone.",
+      "examples": [
+        "I swerved when I saw my ex."
+      ],
+      "aliases": [
+        "swerve",
+        "swerved",
+        "swerving"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "swole",
+      "term": "Swole",
+      "definition": "Having big muscles.",
+      "examples": [
+        "My goal for this year is to get really swole."
+      ],
+      "aliases": [
+        "Swole"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "swoop",
+      "term": "Swoop",
+      "definition": "To give someone a ride, or get a ride from someone.",
+      "examples": [
+        "Since your car’s in the shop, I’ll swoop in 10."
+      ],
+      "aliases": [
+        "Swoop"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "take_a_seat",
+      "term": "Take a seat",
+      "definition": "A dismissive or sarcastic remark, suggesting that someone should calm down or stop talking.",
+      "examples": [
+        "I have it all under control, why don’t you take a seat."
+      ],
+      "aliases": [
+        "Take a seat"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "tea",
+      "term": "Tea",
+      "definition": "Gossiping about something.",
+      "examples": [
+        "Sarah will know about that, just ask her. She loves to spill the tea."
+      ],
+      "aliases": [
+        "tea",
+        "spill the tea"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "tf",
+      "term": "TF",
+      "definition": "Abbreviation for The f**k. Used to express surprise, disbelief, anger, or frustration.",
+      "examples": [
+        "She couldn’t believe her eyes when she saw the price tag. “TF is this price?” she exclaimed to her friend."
+      ],
+      "aliases": [
+        "TF"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "tfw",
+      "term": "TFW",
+      "definition": "An acronym that stands for: That feeling when, used to describe an emotionally charged experience.",
+      "examples": [
+        "TFW you cozy up with a hot chocolate watching the snowfall outside."
+      ],
+      "aliases": [
+        "TFW"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "thot",
+      "term": "Thot",
+      "definition": "Acronym for “that ho over there.” A derogatory term used to refer to someone who is perceived as promiscuous or sexually active.",
+      "examples": [
+        "She felt hurt when she overheard her classmates whispering “thot” behind her back."
+      ],
+      "aliases": [
+        "Thot"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "thirsty",
+      "term": "Thirsty",
+      "definition": "Someone who is desperate or eager for attention, approval, or sex.",
+      "examples": [
+        "He followed my Instagram account and immediately liked all my posts. He’s so thirsty."
+      ],
+      "aliases": [
+        "Thirsty"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "thirst_trap",
+      "term": "Thirst Trap",
+      "definition": "A sexually provocative photo, video, or comment posted on social media, often with the intention of receiving attention from viewers.",
+      "examples": [
+        "All he posts are thirst traps on Tiktok."
+      ],
+      "aliases": [
+        "Thirst Trap"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "totes",
+      "term": "Totes",
+      "definition": "Short for totally, completely.",
+      "examples": [
+        "She was totes out of line for saying that."
+      ],
+      "aliases": [
+        "Totes"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "touch_grass",
+      "term": "Touch grass",
+      "definition": "Used to encourage someone to spend more time in the real world instead of online.",
+      "examples": [
+        "After spending the entire weekend playing video games, his friends told him it was time to touch grass and get some sunlight."
+      ],
+      "aliases": [
+        "Touch grass"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "trap_phone",
+      "term": "Trap phone",
+      "definition": "A prepaid mobile phone used primarily for illegal or questionable activities. The phone facilitates communication and transactions while minimizing the risk of being tracked or monitored by authorities.",
+      "examples": [
+        "He kept a trap phone hidden in his car that only his clients had a number to."
+      ],
+      "aliases": [
+        "Trap phone"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "tweakin",
+      "term": "Tweakin’",
+      "definition": "Acting irrationally, overreacting, or saying something that makes no sense.",
+      "examples": [
+        "You think I’d lend him $50? You’re tweakin’."
+      ],
+      "aliases": [
+        "tweakin",
+        "tweakin'"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "twin",
+      "term": "Twin",
+      "definition": "A true friend or friend that is so close that the two share a long list of interests, experiences, or characteristics.",
+      "examples": [
+        "Hey twin, when you comin’ over?"
+      ],
+      "aliases": [
+        "Twin"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "twizzy",
+      "term": "Twizzy",
+      "definition": "Variation of twin (see above).",
+      "examples": [
+        "Hey twizzy, when you comin’ over?"
+      ],
+      "aliases": [
+        "Twizzy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "uhh",
+      "term": "Uhh",
+      "definition": "Used to express confusion, sometimes in response to a joke that doesn’t make sense.",
+      "examples": [
+        "Person 1: Don’t you think my post was so funny? Didn’t you get it?",
+        "Person 2: Uhh . . ."
+      ],
+      "aliases": [
+        "Uhh"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "unalive",
+      "term": "Unalive",
+      "definition": "A substitute for “kill,” “die,” or “suicide,” created to get around social media filters that flag those words. Because it’s designed to avoid detection, parents should take any references seriously and check in with their child.",
+      "examples": [
+        "If your teen uses unalive when talking about themselves, it’s worth a gentle, direct conversation."
+      ],
+      "aliases": [
+        "Unalive"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "unc",
+      "term": "Unc",
+      "definition": "Short for uncle, used to refer to a cool millennial uncle or to refer to slightly older people in general.",
+      "examples": [
+        "Just walking up those stairs made me so tired, I think I’ve reached unc status."
+      ],
+      "aliases": [
+        "Unc"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "understood_the_assignment",
+      "term": "Understood the assignment",
+      "definition": "When someone goes above and beyond.",
+      "examples": [
+        "This was the best birthday ever! You definitely understood the assignment."
+      ],
+      "aliases": [
+        "Understood the assignment"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "upper_decky",
+      "term": "Upper decky",
+      "definition": "A term for a Zyn (nicotine pouch) that’s placed against the upper gums.",
+      "examples": [
+        "I don’t think I’ve ever seen Heidi without an upper decky."
+      ],
+      "aliases": [
+        "Upper decky"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "v",
+      "term": "V",
+      "definition": "Abbreviation for Very.",
+      "examples": [
+        "I’m v excited for prom next weekend."
+      ],
+      "aliases": [
+        "V"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "vanilla",
+      "term": "Vanilla",
+      "definition": "Ordinary, boring, lacking special features.",
+      "examples": [
+        "I tried having a conversation with him, but he’s so vanilla."
+      ],
+      "aliases": [
+        "Vanilla"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "vibe",
+      "term": "Vibe",
+      "definition": "A feeling, an ambience.",
+      "examples": [
+        "I love your whole vibe."
+      ],
+      "aliases": [
+        "Vibe"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "vsco_girl",
+      "term": "VSCO girl",
+      "definition": "(pronounced visco), A young, usually white, girl who is adorned in trendy things and posts pictures edited on the VSCO app.",
+      "examples": [
+        "She’s wearing an oversized t-shirt, Birks, and has a huge Hydro Flask. She’s definitely trying to be a VSCO girl."
+      ],
+      "aliases": [
+        "VSCO girl"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "w",
+      "term": "W",
+      "definition": "Win, Winner.",
+      "examples": [
+        "Our team took the W."
+      ],
+      "aliases": [
+        "W"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "wallflower",
+      "term": "Wallflower",
+      "definition": "An introvert, someone who avoids the limelight and is more comfortable standing on the sidelines of an activity.",
+      "examples": [
+        "She’s always been a wallflower at school dances."
+      ],
+      "aliases": [
+        "Wallflower"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "weird_flex_but_ok",
+      "term": "Weird flex but ok",
+      "definition": "Used to acknowledge someone’s unusual statement or action, typically in response to the boasting or showing off. A light-hearted way to express acceptance or indifference to something that might be considered odd.",
+      "examples": [
+        "You can brag about your collection of rubber ducks all you want. Weird flex, but ok."
+      ],
+      "aliases": [
+        "Weird flex but ok"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "whip",
+      "term": "Whip",
+      "definition": "A car, especially one that is stylish.",
+      "examples": [
+        "She just pulled up in her new whip."
+      ],
+      "aliases": [
+        "Whip"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "whole_meal",
+      "term": "Whole meal",
+      "definition": "Describes someone who looks really good.",
+      "examples": [
+        "Dave looks like a whole meal."
+      ],
+      "aliases": [
+        "Whole meal"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "wig_snatched",
+      "term": "Wig snatched",
+      "definition": "Extreme excitement or astonishment, especially in response to something surprising, impressive, or unexpected. Comes from the idea that something is so amazing that it figuratively causes one’s wig to fly off in amazement.",
+      "examples": [
+        "When he hit that high note during the performance, my wig was snatched."
+      ],
+      "aliases": [
+        "wig snatched",
+        "wig was snatched",
+        "wig is snatched"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "woke",
+      "term": "Woke",
+      "definition": "Someone who is aware of important facts, and racial and social injustices.",
+      "examples": [
+        "I used to be ignorant of what was happening around me, but now I’m woke."
+      ],
+      "aliases": [
+        "Woke"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "wya",
+      "term": "WYA",
+      "definition": "An acronym that stands for Where you at? Commonly used in text messages to ask someone about their current location.",
+      "examples": [
+        "Let me know wya and I’ll come meet up."
+      ],
+      "aliases": [
+        "WYA"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "wyd",
+      "term": "WYD",
+      "definition": "An acronym that stands for What you doing? A casual way to ask someone what they are currently doing.",
+      "examples": [
+        "WYD tonight?"
+      ],
+      "aliases": [
+        "WYD"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "xan",
+      "term": "Xan",
+      "definition": "Abbreviation for: Xanax, a sedative used to treat anxiety which is often abused.",
+      "examples": [
+        "I hope his dad finally realizes who’s been stealing his xan."
+      ],
+      "aliases": [
+        "Xan"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "yaas",
+      "term": "YAAS",
+      "definition": "An enthusiastic way of saying “yes.” Used to express excitement, approval, or agreement.",
+      "examples": [
+        "Yaas, queen! Way to nail that dance routine."
+      ],
+      "aliases": [
+        "YAAS"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "yeet",
+      "term": "Yeet",
+      "definition": "To throw something forcefully.",
+      "examples": [
+        "He just yeeted a peanut butter jar out the window."
+      ],
+      "aliases": [
+        "yeet",
+        "yeeted"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "zaddy",
+      "term": "Zaddy",
+      "definition": "A handsome, fashionable, older man.",
+      "examples": [
+        "She found a zaddy as soon as she graduated."
+      ],
+      "aliases": [
+        "Zaddy"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "zombie",
+      "term": "Zombie",
+      "definition": "Someone who “ghosted” you (disappeared with no explanation) and then suddenly reappears in your messages as if nothing happened.",
+      "examples": [
+        "He ghosted me in March and just texted “hey” — total zombie."
+      ],
+      "aliases": [
+        "Zombie"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "41",
+      "term": "41",
+      "definition": "A viral number with no fixed meaning, used as a nonsense comeback or joke. It spread through a rap song and is often paired with “6-7.”",
+      "examples": [
+        "“What’s the answer to number three?” “41!”"
+      ],
+      "aliases": [
+        "41"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    },
+    {
+      "id": "6_7",
+      "term": "6-7",
+      "definition": "Doesn’t have a specific meaning. A viral way teens are responding to any question. Said in a sing-songy way, while doing a gesture with both hands as if weighing two options.",
+      "examples": [
+        "“How are you doing? “",
+        "“6-7”"
+      ],
+      "aliases": [
+        "6-7"
+      ],
+      "review_status": "user-supplied; meaning and Bangladeshi translation unverified"
+    }
+  ]
+}

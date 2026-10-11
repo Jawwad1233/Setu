@@ -1,0 +1,227 @@
+{
+  "scope": "Bangladeshi colloquial starter glossary; not comprehensive and not imported from Scribd. Sources attest usage, not universal meanings. Romanized aliases are editorial aids.",
+  "entries": [
+    {
+      "id": "bn_joss",
+      "term": "জোস",
+      "aliases": [
+        "জোস",
+        "জোশ",
+        "joss",
+        "josh"
+      ],
+      "definition": "Strong approval: excellent or exciting. Not physical temperature.",
+      "tone": "informal praise",
+      "source": "https://archive.thedailystar.net/rising/2011/03/01/switch.htm",
+      "examples": [
+        "এই খেলাটা জোস!"
+      ],
+      "example_translation": "This game is awesome!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_osthir",
+      "term": "অস্থির",
+      "aliases": [
+        "অস্থির",
+        "osthir",
+        "ostheer",
+        "asthir"
+      ],
+      "definition": "Praise can mean fantastic; anxious or restless remains literal in an anxiety context.",
+      "tone": "context-dependent",
+      "source": "https://www.dhakatribune.com/feature/305336/in-the-%E2%80%98ostheer%E2%80%99-month-of-february",
+      "examples": [
+        "তোর নতুন বাইকটা অস্থির!"
+      ],
+      "example_translation": "Your new bike is awesome!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_jotil",
+      "term": "জটিল",
+      "aliases": [
+        "জটিল",
+        "jotil",
+        "joteel",
+        "jatil"
+      ],
+      "definition": "Admiring reaction can mean impressive; problems or equations may genuinely be complicated.",
+      "tone": "context-dependent",
+      "source": "https://www.dhakatribune.com/amp/opinion/op-ed/14289/what%E2%80%99s-in-a-word",
+      "examples": [
+        "নতুন গানটা জটিল হয়েছে!"
+      ],
+      "example_translation": "The new song is excellent!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_sheirokom",
+      "term": "সেইরকম",
+      "aliases": [
+        "সেইরকম",
+        "সেই রকম",
+        "সেইরাম",
+        "sheirokom",
+        "seirokom",
+        "sheram",
+        "shei",
+        "sei"
+      ],
+      "definition": "An enthusiastic appraisal can mean exceptional; also literally that way or that kind.",
+      "tone": "context-dependent",
+      "source": "https://www.dhakatribune.com/amp/opinion/op-ed/14289/what%E2%80%99s-in-a-word",
+      "examples": [
+        "তোর ছবিটা সেইরকম হয়েছে!"
+      ],
+      "example_translation": "Your photo turned out amazing!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_mama",
+      "term": "মামা",
+      "aliases": [
+        "মামা",
+        "মামু",
+        "mama",
+        "mamu",
+        "mamma"
+      ],
+      "definition": "Friendly address to a man can mean mate; an actual relative remains maternal uncle.",
+      "tone": "familiar address",
+      "source": "https://archive.thedailystar.net/rising/2011/03/01/switch.htm",
+      "examples": [
+        "মামা, একটু চা দেন।"
+      ],
+      "example_translation": "Mate, could I have some tea?",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_pera",
+      "term": "প্যারা",
+      "aliases": [
+        "প্যারা",
+        "প্যারার",
+        "প্যারায়",
+        "প্যারায়",
+        "pera",
+        "pyara"
+      ],
+      "definition": "Informally stress or hassle; in writing it can mean a paragraph. Preserve negation.",
+      "tone": "context-dependent",
+      "source": "https://www.english-bangla.com/bntoen/index/প্যারা",
+      "examples": [
+        "ভাই, এত প্যারা নিস না।"
+      ],
+      "example_translation": "Bro, do not stress so much.",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_matha_noshto",
+      "term": "মাথা নষ্ট",
+      "aliases": [
+        "মাথা নষ্ট",
+        "মাথানষ্ট",
+        "matha noshto",
+        "matha nosto"
+      ],
+      "definition": "An amazed reaction can mean mind-blowing; distress contexts can mean mentally overwhelmed.",
+      "tone": "context-dependent",
+      "source": "https://www.dhakatribune.com/feature/305336/in-the-%E2%80%98ostheer%E2%80%99-month-of-february",
+      "examples": [
+        "কী দারুণ গোল, মাথা নষ্ট!"
+      ],
+      "example_translation": "What a goal! Mind-blowing!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_alga_alap",
+      "term": "আলগা আলাপ",
+      "aliases": [
+        "আলগা আলাপ",
+        "alga alap",
+        "alga alaap"
+      ],
+      "definition": "Dismissive description of pointless talk.",
+      "tone": "dismissive",
+      "source": "https://www.dhakatribune.com/amp/opinion/op-ed/14289/what%E2%80%99s-in-a-word",
+      "examples": [
+        "আলগা আলাপ বাদ দে, কাজ কর।"
+      ],
+      "example_translation": "Stop the pointless talk and get to work.",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_jhakkas",
+      "term": "ঝাক্কাস",
+      "aliases": [
+        "ঝাক্কাস",
+        "jhakkas",
+        "jhakass",
+        "jhakaas"
+      ],
+      "definition": "An enthusiastic compliment: fantastic.",
+      "tone": "informal praise",
+      "source": "https://www.dhakatribune.com/amp/opinion/op-ed/14289/what%E2%80%99s-in-a-word",
+      "examples": [
+        "জুতাটা ঝাক্কাস!"
+      ],
+      "example_translation": "Those shoes are fantastic!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_kothin",
+      "term": "কঠিন",
+      "aliases": [
+        "কঠিন",
+        "kothin",
+        "kotheen"
+      ],
+      "definition": "Admiration can mean impressive; difficulty or hardness remains literal when applicable.",
+      "tone": "context-dependent",
+      "source": "https://www.dhakatribune.com/amp/opinion/op-ed/14289/what%E2%80%99s-in-a-word",
+      "examples": [
+        "কঠিন একটা পারফরম্যান্স দিলি!"
+      ],
+      "example_translation": "You gave an impressive performance!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_shala",
+      "term": "শালা",
+      "aliases": [
+        "শালা",
+        "shala",
+        "shaala",
+        "sala"
+      ],
+      "definition": "Can be an insult such as bastard or familiar teasing; in family contexts it means wife’s brother.",
+      "tone": "potentially offensive; context required",
+      "source": "https://archive.thedailystar.net/rising/2011/03/01/switch.htm",
+      "examples": [
+        "শালা, আবার মিথ্যা বলছিস!"
+      ],
+      "example_translation": "You bastard, you are lying again!",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    },
+    {
+      "id": "bn_chapabaj",
+      "term": "চাপাবাজ",
+      "aliases": [
+        "চাপাবাজ",
+        "চাপাবাজি",
+        "chapabaj",
+        "chapabaz",
+        "chapabaji"
+      ],
+      "definition": "Someone who boasts with exaggerated or fabricated claims.",
+      "tone": "mocking",
+      "source": "https://www.jugantor.com/tp-imp/621994",
+      "examples": [
+        "ওর কথা বিশ্বাস করিস না, ও চাপাবাজ।"
+      ],
+      "example_translation": "Do not believe him; he makes exaggerated claims.",
+      "review_status": "source-attested sense; assistant-authored example; regional/native review pending"
+    }
+  ]
+}

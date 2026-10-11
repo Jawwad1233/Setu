@@ -1,0 +1,722 @@
+[
+  {
+    "id": "music_slaps",
+    "direction": "en-bn",
+    "expression": "slaps",
+    "pattern": "(?P<subject>(?:this|that|the) (?:song|track|beat|album)) (?:really |absolutely )?slaps(?P<ending>[.!]*)",
+    "replacement": "\\g<subject> is really good\\g<ending>",
+    "meaning": "is really good (praise for music)",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "amirite",
+    "direction": "en-bn",
+    "expression": "amirite",
+    "pattern": "(?<!\\w)amirite(?!\\w)",
+    "replacement": "am I right",
+    "meaning": "am I right",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "amped",
+    "direction": "en-bn",
+    "expression": "amped",
+    "pattern": "(?<!\\w)amped(?!\\w)",
+    "replacement": "excited",
+    "meaning": "excited",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "boujee",
+    "direction": "en-bn",
+    "expression": "boujee",
+    "pattern": "(?<!\\w)boujee(?!\\w)",
+    "replacement": "luxurious",
+    "meaning": "luxurious",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "bussin",
+    "direction": "en-bn",
+    "expression": "bussin",
+    "pattern": "(?<!\\w)bussin['’]?(?!\\w)",
+    "replacement": "excellent",
+    "meaning": "excellent",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "cheugy",
+    "direction": "en-bn",
+    "expression": "cheugy",
+    "pattern": "(?<!\\w)cheugy(?!\\w)",
+    "replacement": "outdated",
+    "meaning": "outdated",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "cray_cray",
+    "direction": "en-bn",
+    "expression": "cray cray",
+    "pattern": "(?<!\\w)cray\\ cray(?!\\w)",
+    "replacement": "crazy",
+    "meaning": "crazy",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "delulu",
+    "direction": "en-bn",
+    "expression": "delulu",
+    "pattern": "(?<!\\w)delulu(?!\\w)",
+    "replacement": "unrealistic",
+    "meaning": "unrealistic",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "finna",
+    "direction": "en-bn",
+    "expression": "finna",
+    "pattern": "(?<!\\w)finna(?!\\w)",
+    "replacement": "going to",
+    "meaning": "going to",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "frfr",
+    "direction": "en-bn",
+    "expression": "frfr",
+    "pattern": "(?<!\\w)frfr(?!\\w)",
+    "replacement": "honestly",
+    "meaning": "honestly",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "ngl",
+    "direction": "en-bn",
+    "expression": "ngl",
+    "pattern": "(?<!\\w)ngl(?!\\w)",
+    "replacement": "to be honest",
+    "meaning": "to be honest",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "icymi",
+    "direction": "en-bn",
+    "expression": "icymi",
+    "pattern": "(?<!\\w)icymi(?!\\w)",
+    "replacement": "in case you missed it",
+    "meaning": "in case you missed it",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "iykyk",
+    "direction": "en-bn",
+    "expression": "iykyk",
+    "pattern": "(?<!\\w)iykyk(?!\\w)",
+    "replacement": "if you know, you know",
+    "meaning": "if you know, you know",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "omw",
+    "direction": "en-bn",
+    "expression": "omw",
+    "pattern": "(?<!\\w)omw(?!\\w)",
+    "replacement": "on my way",
+    "meaning": "on my way",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "omg",
+    "direction": "en-bn",
+    "expression": "omg",
+    "pattern": "(?<!\\w)omg(?!\\w)",
+    "replacement": "oh my goodness",
+    "meaning": "oh my goodness",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "oml",
+    "direction": "en-bn",
+    "expression": "oml",
+    "pattern": "(?<!\\w)oml(?!\\w)",
+    "replacement": "oh my goodness",
+    "meaning": "oh my goodness",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "periodt",
+    "direction": "en-bn",
+    "expression": "periodt",
+    "pattern": "(?<!\\w)periodt(?!\\w)",
+    "replacement": "and that is final",
+    "meaning": "and that is final",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "smh",
+    "direction": "en-bn",
+    "expression": "smh",
+    "pattern": "(?<!\\w)smh(?!\\w)",
+    "replacement": "I am shaking my head in disapproval",
+    "meaning": "I am shaking my head in disapproval",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "smol",
+    "direction": "en-bn",
+    "expression": "smol",
+    "pattern": "(?<!\\w)smol(?!\\w)",
+    "replacement": "tiny and cute",
+    "meaning": "tiny and cute",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "totes",
+    "direction": "en-bn",
+    "expression": "totes",
+    "pattern": "(?<!\\w)totes(?!\\w)",
+    "replacement": "totally",
+    "meaning": "totally",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "stoked",
+    "direction": "en-bn",
+    "expression": "stoked",
+    "pattern": "(?<!\\w)stoked(?!\\w)",
+    "replacement": "very excited",
+    "meaning": "very excited",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "swole",
+    "direction": "en-bn",
+    "expression": "swole",
+    "pattern": "(?<!\\w)swole(?!\\w)",
+    "replacement": "muscular",
+    "meaning": "muscular",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "sus",
+    "direction": "en-bn",
+    "expression": "sus",
+    "pattern": "(?<!\\w)sus(?!\\w)",
+    "replacement": "suspicious",
+    "meaning": "suspicious",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "rizz",
+    "direction": "en-bn",
+    "expression": "rizz",
+    "pattern": "(?<!\\w)rizz(?!\\w)",
+    "replacement": "romantic charm",
+    "meaning": "romantic charm",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "rizzler",
+    "direction": "en-bn",
+    "expression": "rizzler",
+    "pattern": "(?<!\\w)rizzler(?!\\w)",
+    "replacement": "a person who is good at flirting",
+    "meaning": "a person who is good at flirting",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "finsta",
+    "direction": "en-bn",
+    "expression": "finsta",
+    "pattern": "(?<!\\w)finsta(?!\\w)",
+    "replacement": "private Instagram account",
+    "meaning": "private Instagram account",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "fyp",
+    "direction": "en-bn",
+    "expression": "fyp",
+    "pattern": "(?<!\\w)fyp(?!\\w)",
+    "replacement": "personalized video feed",
+    "meaning": "personalized video feed",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "guap",
+    "direction": "en-bn",
+    "expression": "guap",
+    "pattern": "(?<!\\w)guap(?!\\w)",
+    "replacement": "a lot of money",
+    "meaning": "a lot of money",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "menty_b",
+    "direction": "en-bn",
+    "expression": "menty b",
+    "pattern": "(?<!\\w)menty\\ b(?!\\w)",
+    "replacement": "mental breakdown",
+    "meaning": "mental breakdown",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "highlighter_kid",
+    "direction": "en-bn",
+    "expression": "highlighter kid",
+    "pattern": "(?<!\\w)highlighter\\ kid(?!\\w)",
+    "replacement": "child wearing neon clothes",
+    "meaning": "child wearing neon clothes",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "sneaky_link",
+    "direction": "en-bn",
+    "expression": "sneaky link",
+    "pattern": "(?<!\\w)sneaky\\ link(?!\\w)",
+    "replacement": "secret romantic relationship",
+    "meaning": "secret romantic relationship",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "glow_up",
+    "direction": "en-bn",
+    "expression": "glow-up",
+    "pattern": "(?<!\\w)glow\\-up(?!\\w)",
+    "replacement": "improvement in appearance",
+    "meaning": "improvement in appearance",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "clapback",
+    "direction": "en-bn",
+    "expression": "clapback",
+    "pattern": "(?<!\\w)clapback(?!\\w)",
+    "replacement": "witty response to criticism",
+    "meaning": "witty response to criticism",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "big_yikes",
+    "direction": "en-bn",
+    "expression": "big yikes",
+    "pattern": "(?<!\\w)big\\ yikes(?!\\w)",
+    "replacement": "that is very embarrassing",
+    "meaning": "that is very embarrassing",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "caught_in_4k",
+    "direction": "en-bn",
+    "expression": "caught in 4k",
+    "pattern": "(?<!\\w)caught\\ in\\ 4k(?!\\w)",
+    "replacement": "caught with clear evidence",
+    "meaning": "caught with clear evidence",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "high_key",
+    "direction": "en-bn",
+    "expression": "high key",
+    "pattern": "(?<!\\w)high\\ key(?!\\w)",
+    "replacement": "really",
+    "meaning": "really",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "on_fleek",
+    "direction": "en-bn",
+    "expression": "on fleek",
+    "pattern": "(?<!\\w)on\\ fleek(?!\\w)",
+    "replacement": "perfect",
+    "meaning": "perfect",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "hella_skrilla",
+    "direction": "en-bn",
+    "expression": "hella skrilla",
+    "pattern": "(?<!\\w)hella\\ skrilla(?!\\w)",
+    "replacement": "a lot of money",
+    "meaning": "a lot of money",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "fire_praise",
+    "direction": "en-bn",
+    "expression": "fire",
+    "pattern": "(?<![\\w])(?P<subject>(?:this|that|the|your|his|her) (?:song|album|track|beat|movie|outfit|performance|waterslide|food|pizza|biryani|meal)) (?P<verb>is|was) (?:really |so |absolutely )?fire(?=[.!?,;:]|$)",
+    "replacement": "\\g<subject> \\g<verb> excellent",
+    "meaning": "excellent, praising entertainment or style",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "lit_event",
+    "direction": "en-bn",
+    "expression": "lit",
+    "pattern": "(?<![\\w])(?P<subject>(?:this|that|the) (?:party|concert|movie|show|event)) (?P<verb>is|was) (?:really |so )?lit(?=[.!?,;:]|$)",
+    "replacement": "\\g<subject> \\g<verb> exciting",
+    "meaning": "exciting, about an event",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "mid_review",
+    "direction": "en-bn",
+    "expression": "mid",
+    "pattern": "(?<![\\w])(?P<subject>(?:this|that|the) (?:song|movie|show|album|game|food)) (?P<verb>is|was) (?:really |so )?mid(?=[.!?,;:]|$)",
+    "replacement": "\\g<subject> \\g<verb> mediocre",
+    "meaning": "mediocre, a review",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "spill_tea_spill",
+    "direction": "en-bn",
+    "expression": "spill the tea",
+    "pattern": "(?<!\\w)spill the tea (?=about\\b)",
+    "replacement": "share the gossip ",
+    "meaning": "share gossip about someone",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "spill_tea_spilling",
+    "direction": "en-bn",
+    "expression": "spill the tea",
+    "pattern": "(?<!\\w)spilling the tea (?=about\\b)",
+    "replacement": "sharing the gossip ",
+    "meaning": "share gossip about someone",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "spill_tea_spilled",
+    "direction": "en-bn",
+    "expression": "spill the tea",
+    "pattern": "(?<!\\w)spilled the tea (?=about\\b)",
+    "replacement": "shared the gossip ",
+    "meaning": "share gossip about someone",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "spill_tea_request",
+    "direction": "en-bn",
+    "expression": "spill the tea",
+    "pattern": "(?:please )?spill the tea[.!]*",
+    "replacement": "Tell me the gossip.",
+    "meaning": "request to share gossip",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "cooked_person",
+    "direction": "en-bn",
+    "expression": "cooked",
+    "pattern": "(?P<person>I['’]m|I am|we['’]re|we are|you['’]re|you are|he['’]s|he is|she['’]s|she is|they['’]re|they are) (?:so |totally )?cooked(?: (?P<context>for (?:tomorrow['’]s |the |my )?(?:exam|test|interview)))?[.!]*",
+    "replacement": "\\g<person> in serious trouble \\g<context>",
+    "meaning": "in serious trouble; personal statement",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "ghosting",
+    "direction": "en-bn",
+    "expression": "ghosting",
+    "pattern": "(?<!\\w)(?P<subject>he|she|they|you) (?P<verb>is|are|was|were) ghosting (?P<object>me|him|her|us|them|you)(?!\\w)",
+    "replacement": "\\g<subject> \\g<verb> ignoring \\g<object> without explanation",
+    "meaning": "cutting off communication",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "ghosted",
+    "direction": "en-bn",
+    "expression": "ghosted",
+    "pattern": "(?<!\\w)(?P<subject>he|she|they|you|I) ghosted (?P<object>me|him|her|us|them|you)(?!\\w)",
+    "replacement": "\\g<subject> stopped communicating with \\g<object> without explanation",
+    "meaning": "stopped communicating",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "ghosting_contraction",
+    "direction": "en-bn",
+    "expression": "ghosting",
+    "pattern": "(?<!\\w)(?P<subject>he|she)['’]s ghosting (?P<object>me|him|her|us|them|you)(?!\\w)",
+    "replacement": "\\g<subject> is ignoring \\g<object> without explanation",
+    "meaning": "cutting off communication",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "ghosting_plural_contraction",
+    "direction": "en-bn",
+    "expression": "ghosting",
+    "pattern": "(?<!\\w)(?P<subject>they|you)['’]re ghosting (?P<object>me|him|her|us|them|you)(?!\\w)",
+    "replacement": "\\g<subject> are ignoring \\g<object> without explanation",
+    "meaning": "cutting off communication",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "left_on_read",
+    "direction": "en-bn",
+    "expression": "left on read",
+    "pattern": "(?<!\\w)left (?P<object>me|you|him|her|us|them) on read(?!\\w)",
+    "replacement": "read the messages from \\g<object> but did not reply",
+    "meaning": "read messages without replying",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "salty_loss",
+    "direction": "en-bn",
+    "expression": "salty",
+    "pattern": "(?<!\\w)(?P<person>he|she|they|I) (?P<verb>is|was|are|were|am) (?:so |really )?salty (?=after losing\\b|about (?:losing|the loss)\\b)",
+    "replacement": "\\g<person> \\g<verb> upset ",
+    "meaning": "upset about losing",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "goat_person",
+    "direction": "en-bn",
+    "expression": "GOAT",
+    "pattern": "(?P<subject>my (?:coach|teacher|friend)|he|she|you) (?P<verb>is|are) the GOAT[.!]*",
+    "replacement": "\\g<subject> \\g<verb> the greatest of all time.",
+    "meaning": "greatest of all time, praising a person",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "bet_reply",
+    "direction": "en-bn",
+    "expression": "bet",
+    "pattern": "bet[.!]*",
+    "replacement": "Okay!",
+    "meaning": "agreement as a standalone reply",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "say_less_reply",
+    "direction": "en-bn",
+    "expression": "say less",
+    "pattern": "say less[.!]*",
+    "replacement": "I understand, no more explanation needed.",
+    "meaning": "agreement as a standalone reply",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "no_cap",
+    "direction": "en-bn",
+    "expression": "no cap",
+    "pattern": "(?P<boundary>^|[,;.!]\\s*)no cap(?=[.!]*$)",
+    "replacement": "\\g<boundary>I am being honest",
+    "meaning": "standalone statement of sincerity",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "addy_request",
+    "direction": "en-bn",
+    "expression": "addy",
+    "pattern": "(?<!\\w)(?P<verb>send|share|text) (?P<object>me|us) (?:the|your) addy(?!\\w)",
+    "replacement": "\\g<verb> \\g<object> the address",
+    "meaning": "address in a request",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "addy_question",
+    "direction": "en-bn",
+    "expression": "addy",
+    "pattern": "(?<!\\w)(?:what['’]?s|what is) (?P<owner>the|your|his|her|their) addy(?!\\w)",
+    "replacement": "what is \\g<owner> address",
+    "meaning": "address in a question",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "addy_drop",
+    "direction": "en-bn",
+    "expression": "addy",
+    "pattern": "(?<!\\w)(?:drop|send|share|text) (?P<owner>the|your) addy(?!\\w)",
+    "replacement": "send \\g<owner> address",
+    "meaning": "address in a request",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "rn_context",
+    "direction": "en-bn",
+    "expression": "rn",
+    "pattern": "(?<!\\w)(?P<state>busy|tired|free|here|there|leaving|working|studying|sleeping) rn(?!\\w)",
+    "replacement": "\\g<state> right now",
+    "meaning": "right now after an activity or state",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "fr_reply",
+    "direction": "en-bn",
+    "expression": "fr",
+    "pattern": "fr[.!?]*",
+    "replacement": "I agree",
+    "meaning": "I agree",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "gg_reply",
+    "direction": "en-bn",
+    "expression": "gg",
+    "pattern": "gg[.!?]*",
+    "replacement": "Good game",
+    "meaning": "Good game",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "wya_reply",
+    "direction": "en-bn",
+    "expression": "wya",
+    "pattern": "wya[.!?]*",
+    "replacement": "Where are you",
+    "meaning": "Where are you",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "wyd_reply",
+    "direction": "en-bn",
+    "expression": "wyd",
+    "pattern": "wyd[.!?]*",
+    "replacement": "What are you doing",
+    "meaning": "What are you doing",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "yaas_reply",
+    "direction": "en-bn",
+    "expression": "yaas",
+    "pattern": "yaas[.!?]*",
+    "replacement": "Yes",
+    "meaning": "Yes",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "lmao_reply",
+    "direction": "en-bn",
+    "expression": "lmao",
+    "pattern": "lmao[.!?]*",
+    "replacement": "That is very funny",
+    "meaning": "That is very funny",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "rotflmao_reply",
+    "direction": "en-bn",
+    "expression": "rotflmao",
+    "pattern": "rotflmao[.!?]*",
+    "replacement": "That is extremely funny",
+    "meaning": "That is extremely funny",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "lol_reply",
+    "direction": "en-bn",
+    "expression": "lol",
+    "pattern": "lol[.!?]*",
+    "replacement": "That is funny",
+    "meaning": "That is funny",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "lfg_reply",
+    "direction": "en-bn",
+    "expression": "lfg",
+    "pattern": "lfg[.!?]*",
+    "replacement": "Let's go!",
+    "meaning": "Let's go!",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "poggers_reply",
+    "direction": "en-bn",
+    "expression": "poggers",
+    "pattern": "poggers[.!?]*",
+    "replacement": "Amazing!",
+    "meaning": "Amazing!",
+    "mode": "fullmatch",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "intensifier_af",
+    "direction": "en-bn",
+    "expression": "AF",
+    "pattern": "(?<!\\w)(?P<adjective>cold|hot|tired|happy|sad|angry|cool|funny|boring|expensive) af(?!\\w)",
+    "replacement": "extremely \\g<adjective>",
+    "meaning": "strong informal emphasis; profanity softened",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  },
+  {
+    "id": "intensifier_asl",
+    "direction": "en-bn",
+    "expression": "ASL",
+    "pattern": "(?<!\\w)(?P<adjective>cold|hot|tired|happy|sad|angry|cool|funny|boring|expensive) asl(?!\\w)",
+    "replacement": "extremely \\g<adjective>",
+    "meaning": "very strong emphasis in this adjective context",
+    "mode": "search",
+    "review_status": "development rule; Bangladeshi phrasing needs bilingual review"
+  }
+]
